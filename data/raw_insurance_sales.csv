@@ -1,0 +1,1291 @@
+﻿policy_id,customer_name,phone,customer_age,policy_type,branch,sale_date,premium_amount,seller_name,status,payment_method
+POL-10798,Debra Coleman,+989238066223,45,Health,Tehran ,2024-09-26,10014043,Charlene Baker,Renewed,Installment
+POL-10813,Brenda Cantrell,09332432016,32,Travle,isfahan,15/05/2024,1135969,Raymond Walters,Renewed,Cash
+POL-10746,William Christian,+989274847890,73,Motor,Tehran ,06-24-2024,5717885,Julian May,Active,Cash
+POL-10912,Michael Miller,0988-242-9485,32,Helth,Mashhad,09-18-2023,9077626,Joseph Holmes,Renewed,Installment
+POL-10568,Vincent Bond,0990-288-9983,62,health,Shiraz,2025-08-21,4627616,Charlene Ramirez,Cancelled,Bank Transfer
+POL-10503,Mr. Michael Patterson,+989059899197,59,Health,tabriz,2025/07/21,9795153,Matthew Donaldson,Active,Bank Transfer
+POL-10141,Lori Miller,00989968299033,61,health,Mashhad,2024-04-13,7670547,Maria Beck,Expired,Cash
+POL-11108,  Jessica Logan   ,09050827263,59,LIFE,Tabriz,2026/04/19,19111130,Jamie Peters,Active,Bank Transfer
+POL-10034,Natalie Lloyd,0945-965-4137,41,Fire,tabriz,2025-12-08,-1,Sarah Patterson,Renewed,Credit Card
+POL-10779,Nicholas Glenn,+989366187436,73,Travel,Tehran,2024-08-18,2207893,Marissa Johns,Expired,Bank Transfer
+POL-10172,Chad Parker,09364065667,54,LIFE,Mashad,2025-09-23,12876306,Reginald Juarez,Renewed,Cash
+POL-10189,Mark Campbell,+989794450106,46,LIFE,tabriz,2025/07/14,22431079,Crystal Murray,Renewed,Installment
+POL-10609,Larry Rios,+989029434633,42,Health,Tehran,01-30-2024,"8,802,696",Julian May,Expired,Cash
+POL-10903,Paul Williams,,35,Life,Isfahan,2025-04-13,16230193 تومان,Crystal Murray,Expired,Credit Card
+POL-10632,Eugene Cameron,00989457173199,19,Life ,Isfahan,2024-03-14,11351508 تومان,Taylor Price,Expired,Bank Transfer
+POL-10241,Charlene Allen,09413981961,22,fire,karaj,2023/07/20,3989419,Charlene Ramirez,Expired,Installment
+POL-10275,Gregory Moore,09075886366,45,Moter,TEHRAN,2025-06-22,4918911,Brian Thomas,Cancelled,Cash
+POL-10051,Megan Rice,09027931160,52,motor,tabriz,2024-05-09,6533810,Maria Beck,Cancelled,Installment
+POL-11052,Frederick Johnson,09100556023,37,MOTOR,Esfahan,2025/06/15,7488589,Crystal Murray,Expired,Cash
+POL-10151,Adam Jackson,+989181039304,63,health,mashhad,2025/04/22,8924761,Christopher Stone,Cancelled,Installment
+POL-10263,Melissa Bailey,09559417186,42,Health,Karaj,2025/12/13,8213295,Reginald Juarez,Expired,Bank Transfer
+POL-10699,Jennifer Weiss,09215594354,72,liability,Tabriz,2026/04/08,5828786,Brett Davis,Expired,Installment
+POL-10990,Alan Elliott,00989047714064,63,LIFE,Isfahan,09-23-2025,"11,388,782",Raymond Walters,Expired,Installment
+POL-10828,Kelly Chan,09389125170,60,motor,tehran,10-13-2024,7070557,Rachel Little,Active,Credit Card
+POL-10492,Jessica Freeman,0915-156-3586,52,Travle,Tabriz,2023-08-27,3029994,Marissa Johns,Cancelled,Credit Card
+POL-11112,Raymond Castro,+989114600526,24,Fire,tabriz,11-07-2024,1090911,Michael Clark,Cancelled,Installment
+POL-11116,,0926-171-7760,74,HEALTH,Isfahan,2024-04-09,4249889,Charlene Baker,Expired,Credit Card
+POL-10407,  Teresa Wall   ,00989059903888,42,travel,Karaj,2025-11-29,2364868 تومان,Michael Clark,Expired,Credit Card
+POL-10868,,0987-699-7611,26,Travle,Shiraz,08-10-2024,2335244,Brian Thomas,Renewed,Credit Card
+POL-10528,April Martin,0953-513-6511,63,LIFE,Shiraz,10/01/2026,6716065,Christopher Stone,Cancelled,Bank Transfer
+POL-11230,Jacob Bennett,0993-206-6536,39,Liability,shiraz,08/10/2024,"4,464,346",Reginald Juarez,Renewed,Credit Card
+POL-10998,,0905-374-5163,34,Moter,Shiraz,01/10/2024,,Bailey Diaz,Renewed,Cash
+POL-10785,Dr. Matthew Giles,09023281151,25,fire,mashhad,2024-12-11,3487257 تومان,Renee Cole,Cancelled,Credit Card
+POL-11151,  Matthew Barr   ,0970-785-7340,67,FIRE,Tehran,2025-10-07,,Reginald Juarez,Active,Cash
+POL-11012,Douglas Perkins,00989656675720,72,Motor,Esfahan,09-01-2025,7002277,Michael Clark,Cancelled,Cash
+POL-10146,Jonathan Chavez,09986624077,40,Motor,karaj,2025-03-20,4475771,Charlene Ramirez,Cancelled,Cash
+POL-10220,Ashlee Marshall,00989387784449,66,health,karaj,2024-01-18,9793504,Sarah Patterson,Active,Credit Card
+POL-10848,Daniel Mcintyre,00989444519486,71,Health,TEHRAN,15/10/2025,7654770,Jamie Peters,Cancelled,Cash
+POL-11015,Jennifer Nunez,09154496714,67,Helth,tabriz,04/08/2024,3280744,Michael Clark,Cancelled,Cash
+POL-10664,Hunter Tanner,0961-828-2490,32,MOTOR,Isfahan,01-18-2026,7616199,Crystal Murray,Cancelled,Credit Card
+POL-11028,,+989403275094,67,Helth,Mashad,2025-11-25,"6,554,947",Charlene Baker,Cancelled,Credit Card
+POL-11163,  Eugene Bryant   ,+989176964754,55,Helth,karaj,2025-04-11,9160221,Marissa Johns,Active,Installment
+POL-10063,,0921-964-7212,53,Fire,karaj,2024/10/07,6744671,Jamie Peters,Active,Credit Card
+POL-10897,Scott Murray,+989977923086,74,Moter,Tabriz,2024/03/04,3858429,Raymond Walters,Cancelled,Bank Transfer
+POL-10948,Mary Evans,0980-424-3866,56,Travle,shiraz,09-08-2025,2009412 تومان,Marissa Johns,Renewed,Bank Transfer
+POL-10278,Daniel Gomez,+989501206779,45,Life,Tehran ,2024/08/07,"8,913,972",Sarah Patterson,Cancelled,Bank Transfer
+POL-10228,Jason Ward,09418342205,39,Moter,isfahan,2025-11-28,8349861,Brett Davis,Renewed,Installment
+POL-10336,Wesley Bennett,09885205404,51,FIRE,TEHRAN,07-22-2024,2279093 تومان,Matthew Donaldson,Active,Installment
+POL-11212,Nicole Miller,09067607429,52,Life,Karaj,2026/05/07,-1,Maria Beck,Expired,Credit Card
+POL-10262,  Darryl Thomas   ,09754386040,66,Travle,Mashhad,2024-06-26,2295611,Raymond Walters,Cancelled,Credit Card
+POL-10640,Katie Hawkins,00989869011936,45,Life,Karaj,2024/01/11,17421100,Reginald Juarez,Active,Credit Card
+POL-10128,Justin Nichols,,34,Fire,Isfahan,21/08/2023,5156051,Rachel Little,Expired,Credit Card
+POL-10699,Jennifer Weiss,09215594354,72,liability,Tabriz,2026/04/08,5828786,Brett Davis,Expired,Installment
+POL-10795,Lori Edwards,09263108940,50,Travel,Mashhad,07-02-2025,1844236 تومان,Michael Clark,Renewed,Installment
+POL-11202,Christine Gallagher,0928-105-8857,38,Travle,shiraz,12-08-2024,1642938,Sarah Patterson,Active,Cash
+POL-10995,Laurie Wilson,0991-466-0692,22,FIRE,karaj,2025-11-13,3476735,Rachel Little,Active,Credit Card
+POL-10721,Courtney Nguyen,0910-074-8645,68,Liability,TEHRAN,2024/02/15,5180046,Sarah Patterson,Renewed,Bank Transfer
+POL-11218,Leah Anderson,00989618864468,59,HEALTH,karaj,2025/09/17,9231453 تومان,Kevin Hernandez,Expired,Bank Transfer
+POL-10397,Richard Patel,0957-673-6891,22,Travel,Tabriz,07-23-2023,1380422,Rachel Little,Expired,Bank Transfer
+POL-10812,Scott Osborne,09806253151,24,Liabilty,Tehran,10-20-2023,3355587,Rachel Little,Cancelled,Installment
+POL-11247,Kimberly Wright,09080174206,69,FIRE,karaj,2025-07-29,5648390 تومان,Rachel Little,Cancelled,Cash
+POL-10619,Monica Hansen,00989560698529,57,Liabilty,Tabriz,2026/01/27,6566241,Jeremiah Jones,Cancelled,Bank Transfer
+POL-10742,Eric Cox,00989273747863,19,Liability,mashhad,02-16-2026,2921622,Julian May,Expired,Bank Transfer
+POL-10358,,+989071242014,42,Life ,tabriz,29/07/2025,15338696,Sarah Patterson,Active,Credit Card
+POL-10363,Jamie Hogan,09179773763,64,Motor,karaj,2025-12-17,9911116,Raymond Walters,Cancelled,Credit Card
+POL-10534,Daniel Morales,+989096977424,66,Liabilty,Tehran,2026-07-05,3615150,Reginald Juarez,Cancelled,Bank Transfer
+POL-11236,Sean Williams,00989260451781,65,Moter,Shiraz,05/06/2026,9349232,Renee Cole,Cancelled,Cash
+POL-10451,Victor Fuller,00989248401498,43,Health,Tehran,30/11/2023,7698111,Renee Cole,Expired,Cash
+POL-10326,Amanda Downs,00989486408044,65,Travel,mashhad,09/08/2024,2673606 تومان,Reginald Juarez,Active,Cash
+POL-10688,Stephen James,+989756515278,68,Liabilty,Esfahan,2025/03/12,"5,386,995",Sarah Patterson,Active,Credit Card
+POL-10142,Christopher Hughes,0979-951-2534,58,Travle,tabriz,2026-06-22,1865922,Jeremiah Jones,Expired,Cash
+POL-10595,Crystal Brown,00989274119185,68,HEALTH,Shiraz,2025/04/30,9181883,Charlene Baker,Expired,Cash
+POL-10712,Kimberly Donovan,09973761199,29,Travle,Esfahan,03-26-2025,3011388,Raymond Walters,Renewed,Cash
+POL-10468,Amber Scott,00989010685070,39,MOTOR,Isfahan,30/06/2025,10097972,Marissa Johns,Renewed,Cash
+POL-11179,Jill Schneider,09735243750,74,FIRE,Esfahan,12/06/2025,4420942,John Robinson,Renewed,Credit Card
+POL-11014,Emily Smith,0952-952-9984,42,Travel,tehran,09-07-2024,1373114,Marissa Johns,Active,Installment
+POL-10113,Tiffany Sanders,0992-595-9817,65,Health,Mashad,08-31-2024,8285548,Bailey Diaz,Cancelled,Credit Card
+POL-10491,Kelly Allen,0941-352-6928,50,life,Isfahan,2025-05-27,6536887,John Robinson,Renewed,Installment
+POL-10891,Matthew Walker,+989422098956,40,travel,karaj,2025-03-19,3167925,Joseph Holmes,Cancelled,Installment
+POL-11228,Gregory Rowland,+989700299307,58,motor,TEHRAN,11/05/2026,7341727,John Robinson,Renewed,Cash
+POL-10108,Anita Gaines,09637844022,59,MOTOR,tabriz,07/08/2025,6370170,Michael Clark,Cancelled,Bank Transfer
+POL-10962,Melissa Mahoney,+989943250988,43,travel,karaj,2024/02/14,1080358,Sarah Patterson,Cancelled,Cash
+POL-11117,Aaron Burton,09457641030,54,Life,Mashad,2026/01/12,12619262,Jamie Peters,Active,Installment
+POL-10351,Phillip Garrett,0986-235-4400,60,motor,tabriz,02-15-2026,6560250 تومان,Brett Davis,Renewed,Installment
+POL-10758,Alicia Gutierrez,09751628808,37,motor,Isfahan,2024/09/20,5533349,Brett Davis,Expired,Installment
+POL-10722,Daniel Wright,+989968851081,32,liability,Tabriz,2025-11-21,4246616 تومان,Jeremiah Jones,Active,Cash
+POL-10770,Isaac Gould,00989889272183,43,health,Mashad,2026/01/29,7228104,Matthew Donaldson,Renewed,Installment
+POL-10863,Sarah Hayes,00989847431850,52,Travel,Tehran,06-26-2026,1849808,Rachel Little,Cancelled,Bank Transfer
+POL-10867,Nicole Oconnor,00989485350762,45,travel,isfahan,2024-11-18,1437332,Michael Clark,Active,Cash
+POL-10068,Nicholas Beck,00989700733566,61,Life ,TEHRAN,27/07/2024,16157025,Jacqueline Taylor,Active,Credit Card
+POL-11038,Matthew Anderson,+989732464648,33,Travle,Esfahan,2026-05-15,1916926,Crystal Murray,Active,Cash
+POL-11071,Tiffany Bailey,+989046991247,66,Motor,karaj,2026-03-04,7490130 تومان,Jeremiah Jones,Renewed,Bank Transfer
+POL-10447,  Ashley Brown   ,0926-339-8951,68,health,karaj,2026-01-17,,Kevin Hernandez,Cancelled,Credit Card
+POL-10164,Eileen Benitez,+989618166384,29,Life,tabriz,2024/04/12,19293007,Kevin Hernandez,Renewed,Installment
+POL-11067,Brandon Rivera,00989488838493,69,Motor,karaj,07-19-2025,4761712 تومان,Crystal Murray,Expired,Bank Transfer
+POL-10186,Michelle Estrada,0984-602-3679,57,Travle,Karaj,25/07/2025,3059272,Maria Beck,Renewed,Cash
+POL-10500,Diane Taylor,+989536468083,35,motor,mashhad,07-11-2024,6594574,Raymond Walters,Renewed,Bank Transfer
+POL-10098,Jacob Bailey,0963-998-9296,46,fire,Tabriz,2026-03-24,2811356,Reginald Juarez,Renewed,Cash
+POL-10325,Austin Stevens,+989751516505,19,fire,Karaj,01/07/2025,3960766,Maria Beck,Active,Cash
+POL-10526,Anthony Bailey,0955-818-7186,74,fire,tehran,2025-04-14,5944640,Bailey Diaz,Expired,Bank Transfer
+POL-11167,Paul Roy,09028279050,21,Health,Tabriz,2026-02-19,9362448,Joseph Holmes,Renewed,Bank Transfer
+POL-10801,John Powell,09317333419,30,Motor,TEHRAN,04-03-2025,6591772,Bailey Diaz,Cancelled,Credit Card
+POL-10179,Ashley Soto,00989163685395,69,LIFE,Tehran,04-03-2025,11673436,Brian Thomas,Expired,Installment
+POL-10711,Jose Rodgers,00989974985475,59,Helth,mashhad,19/11/2023,6345949,Christopher Stone,Cancelled,Installment
+POL-10110,Maxwell Taylor,09991121868,65,travel,Shiraz,2026/05/13,1624630,Sarah Patterson,Expired,Installment
+POL-10885,April Hernandez,0983-064-6321,61,Liability,karaj,03-17-2026,4677601,Taylor Price,Renewed,Cash
+POL-10638,Michael Jenkins,09537430149,47,health,Tabriz,07/07/2024,7261332,Matthew Donaldson,Expired,Installment
+POL-10432,Brittany Lamb,09034785365,29,LIFE,mashhad,08/12/2024,13076664,Brett Davis,Active,Installment
+POL-10765,Judith Gonzalez,0995-400-6496,61,Life ,Shiraz,2024-03-17,15799901,Reginald Juarez,Active,Installment
+POL-10617,,0969-368-7167,68,Motor,shiraz,2025-03-27,4433598,Jacqueline Taylor,Cancelled,Credit Card
+POL-10027,Rebecca Wood,0924-524-7402,71,Moter,Esfahan,03-08-2024,5364390,John Robinson,Renewed,Installment
+POL-11086,Sarah Clark,00989540228546,74,motor,tabriz,2025/10/27,9392255,Crystal Murray,Cancelled,Cash
+POL-10367,,+989247029670,23,Helth,Tehran,2025/05/19,"10,561,894",Marissa Johns,Expired,Bank Transfer
+POL-11050,,09871999165,31,LIFE,Mashhad,2023-11-22,16406212,Raymond Walters,Renewed,Cash
+POL-10454,John Anderson,00989396346597,69,Helth,isfahan,07/10/2023,,Kevin Hernandez,Renewed,Installment
+POL-10207,Melissa Martinez,09011063465,29,Liability,Isfahan,2024-03-15,"2,071,868",Julian May,Active,Cash
+POL-10457,David Rodriguez DVM,09751285388,55,Helth,Tehran ,2025-07-01,2430230,Mary Roth,Expired,Cash
+POL-10540,Jasmine Mendoza,09811436923,34,health,Shiraz,11/10/2024,8680539,Jamie Peters,Active,Credit Card
+POL-11081,Kaitlyn Padilla,00989889749918,23,Life ,Tabriz,2026-01-03,17595411,Charlene Ramirez,Expired,Installment
+POL-10109,Gina Williams,09386872601,52,fire,Tehran ,08-08-2024,2267819,Joseph Holmes,Cancelled,Bank Transfer
+POL-10649,Brooke Rose,0924-097-1221,24,Helth,Shiraz,08/01/2026,"8,905,308",Christopher Stone,Renewed,Cash
+POL-10170,Martha Rodriguez,0999-352-9838,69,FIRE,Mashad,30/10/2025,3502561,John Robinson,Cancelled,Bank Transfer
+POL-10731,Kaylee Cooper,09440007315,70,Life ,Karaj,2026-06-12,19711942,Brett Davis,Active,Installment
+POL-10674,Rachel Davis,09122363873,63,Moter,TEHRAN,14/04/2025,6353738,Matthew Donaldson,Expired,Cash
+POL-11082,  Shawn Rodriguez   ,0981-222-6074,44,Travel,Tehran ,2025-09-25,"2,732,620",Joseph Holmes,Expired,Cash
+POL-10046,,00989721507228,65,HEALTH,Tehran,05/01/2026,4380432,Julian May,Active,Bank Transfer
+POL-10252,Teresa Fuller,09905904761,36,FIRE,TEHRAN,02-17-2024,5591804,Renee Cole,Cancelled,Bank Transfer
+POL-11098,Shelia Mata,00989860107419,71,Travel,Isfahan,05/04/2024,2540106 تومان,Rachel Little,Expired,Credit Card
+POL-10101,Matthew Larson,00989104551055,43,Motor,Isfahan,2024-02-26,7572460,Marissa Johns,Renewed,Installment
+POL-11187,Sarah Jimenez,0988-760-1693,68,Fire,Mashad,03/06/2024,,Julian May,Cancelled,Installment
+POL-11198,Yvette Carter,00989448303932,25,motor,tabriz,04/05/2026,5276279,Christopher Stone,Active,Bank Transfer
+POL-10318,Stephen Cisneros,+989873389614,47,life,Karaj,01-12-2026,18897317,Julian May,Expired,Bank Transfer
+POL-10900,William Harvey,00989091554312,18,MOTOR,Shiraz,12/06/2024,7557570,John Robinson,Active,Bank Transfer
+POL-10857,William Miranda,+989932732418,21,Liabilty,karaj,2023/08/19,3960642,Kevin Hernandez,Active,Installment
+POL-10959,Martin Harrington,09720247885,32,HEALTH,karaj,2025-08-29,5488452,Brett Davis,Expired,Installment
+POL-10790,Jessica Hernandez,+989779476809,35,fire,Karaj,2023-08-15,3876587,Jeremiah Jones,Expired,Credit Card
+POL-11241,Courtney Garcia,00989226057434,51,Fire,Shiraz,05/03/2024,4770316 تومان,John Robinson,Renewed,Bank Transfer
+POL-10216,Kathryn Guerrero,00989471605601,53,life,Esfahan,27/04/2025,19048199 تومان,Brett Davis,Renewed,Cash
+POL-11206,Linda Wyatt,+989791541749,26,Fire,tabriz,2026-04-27,3761513,Christopher Stone,Cancelled,Credit Card
+POL-10939,Wyatt Villanueva,09086862814,36,Liability,Isfahan,07-19-2023,3076252 تومان,Julian May,Renewed,Bank Transfer
+POL-10285,Mark Harris,00989485349639,64,liability,Shiraz,2025/07/08,5973339,Jeremiah Jones,Active,Credit Card
+POL-10955,Lauren Goodman,+989839601553,44,Travle,mashhad,18/11/2023,1865140,Taylor Price,Renewed,Cash
+POL-10698,Nicole Sawyer,0901-048-5162,59,Travel,Tehran ,2025/01/10,2551581,Michael Clark,Renewed,Installment
+POL-10737,Jennifer Smith,0955-994-0791,62,HEALTH,Isfahan,12/03/2025,4728704,Renee Cole,Cancelled,Cash
+POL-10412,Alyssa Myers PhD,,34,Moter,Tehran,09-25-2025,9596489,Rachel Little,Expired,Cash
+POL-11065,  Angela Perkins   ,09287275687,20,LIFE,tehran,01-15-2026,26511896 تومان,Bailey Diaz,Expired,Bank Transfer
+POL-10845,Tommy Bryant,0914-422-8928,48,Travle,Mashad,2024-12-16,"2,330,622",Sarah Patterson,Cancelled,Installment
+POL-10508,Robert Coleman,00989911478009,69,Liabilty,Tehran ,11-05-2024,2369795,Julian May,Expired,Installment
+POL-10060,Eric Gray,0981-446-2427,54,Travle,mashhad,24/05/2024,3076568 تومان,Crystal Murray,Renewed,Installment
+POL-10445,Stephanie Stewart,09578175731,66,MOTOR,Esfahan,2024/05/23,6795809,Renee Cole,Cancelled,Installment
+POL-10556,Brendan Bell,09026284812,42,life,isfahan,2024-04-29,12958150 تومان,Jamie Peters,Expired,Installment
+POL-10511,Julie Hendricks,+989770997596,73,liability,TEHRAN,2025/02/23,5386209,Matthew Donaldson,Renewed,Installment
+POL-11097,Jerome Abbott,0950-183-0636,41,FIRE,isfahan,2025-04-04,6126701,Jeremiah Jones,Active,Installment
+POL-10408,  Dwayne Moody   ,,57,health,Tehran,20/08/2023,6798112,Raymond Walters,Cancelled,Credit Card
+POL-10912,Michael Miller,0988-242-9485,32,Helth,Mashhad,09-18-2023,9077626,Joseph Holmes,Renewed,Installment
+POL-11148,Veronica Mcdonald,0932-222-5358,69,Travle,tabriz,2023/08/09,,Bailey Diaz,Active,Credit Card
+POL-10725,Melinda Ferguson,00989705435648,48,life,shiraz,2025/06/28,16582896,Joseph Holmes,Cancelled,Bank Transfer
+POL-10679,Kenneth Johnson,09222981558,74,Health,shiraz,2024-06-16,,Crystal Murray,Cancelled,Cash
+POL-10587,Amy Pruitt,09490746849,35,motor,Karaj,11-30-2023,,Jacqueline Taylor,Renewed,Cash
+POL-10531,Darlene Gutierrez,0900-354-2480,70,Travel,shiraz,2025/09/10,1564553 تومان,Charlene Ramirez,Renewed,Credit Card
+POL-10315,Jeremy Taylor,09481167980,44,Moter,tehran,2025-05-30,8293188,Joseph Holmes,Cancelled,Bank Transfer
+POL-10997,Corey Shields,00989104043345,55,Fire,mashhad,2024-06-16,"4,862,743",Renee Cole,Expired,Bank Transfer
+POL-11232,Sara Coleman,+989834596639,65,Travel,tabriz,2023/12/04,2743179,Christopher Stone,Active,Cash
+POL-11245,Elizabeth Humphrey DVM,,63,Life,shiraz,10-19-2025,11904297,Joseph Holmes,Renewed,Bank Transfer
+POL-10009,Olivia Vasquez,0914-240-3927,42,Life,Shiraz,2024-11-18,6390238,Brett Davis,Expired,Credit Card
+POL-11120,Christopher Camacho,0957-807-2679,29,LIFE,isfahan,20/11/2025,17098934,John Robinson,Renewed,Installment
+POL-10053,Melissa Whitaker,00989123071375,-5,motor,Tehran ,2023-12-20,"4,838,784",Charlene Baker,Active,Installment
+POL-10015,  Michael Garcia   ,09193882632,68,liability,Mashhad,2026-07-01,5533326,Bailey Diaz,Renewed,Installment
+POL-11011,Cheryl Le,+989457293604,27,Fire,TEHRAN,2025-02-08,5287008,Jacqueline Taylor,Cancelled,Credit Card
+POL-11211,Shannon Snow MD,+989718463342,0,Travel,Shiraz,05-26-2026,1316799,Maria Beck,Active,Installment
+POL-10355,Sherry Smith,09322910008,54,Life,karaj,10-26-2023,13979627,Joseph Holmes,Cancelled,Credit Card
+POL-10040,Jeffrey Lopez,00989220896143,25,FIRE,Tabriz,2024/01/29,1749187,Raymond Walters,Renewed,Installment
+POL-10463,Shawn Allen,+989349409853,23,Travle,Isfahan,01-31-2026,-1,Charlene Baker,Cancelled,Cash
+POL-10517,Kayla Roach,+989403786588,71,Health,tabriz,2024-06-24,-1,Charlene Baker,Cancelled,Credit Card
+POL-10655,Melissa Marshall,09812822855,32,Life,mashhad,2025-12-24,"5,105,373",Michael Clark,Renewed,Bank Transfer
+POL-10510,Crystal Williams,,47,Life,Tabriz,21/02/2024,13402354,Julian May,Active,Installment
+POL-11249,  Christopher Clayton   ,00989870049863,55,FIRE,tehran,2025/06/03,2664334,Sarah Patterson,Active,Installment
+POL-10083,Joshua Moore,09087178202,19,life,Tehran,07/05/2026,11298797,Kevin Hernandez,Renewed,Installment
+POL-10963,Nicholas Mitchell,+989969167077,67,Health,Shiraz,2024-09-09,10479091,John Robinson,Active,Credit Card
+POL-10957,Dr. Danielle Young DVM,00989401726626,39,Travle,Shiraz,03-05-2025,1810009,Julian May,Active,Cash
+POL-10204,Taylor Cooper,09617246397,52,travel,tehran,2025-05-10,2364703,Mary Roth,Cancelled,Cash
+POL-10565,James Jones,0989-780-5635,52,health,shiraz,2024-10-23,7807002,Mary Roth,Cancelled,Bank Transfer
+POL-10471,Terry Howard,09315937923,18,HEALTH,Tabriz,2025-04-14,8357336,Taylor Price,Expired,Bank Transfer
+POL-10716,Stephanie Walker,0935-747-6113,72,life,Tehran ,07-23-2024,17352759,Charlene Baker,Renewed,Bank Transfer
+POL-10546,Chelsea Rangel,+989556911668,42,health,TEHRAN,26/07/2023,9843159,Jacqueline Taylor,Cancelled,Installment
+POL-11070,Michael Hurst,0958-967-0997,36,Liability,Isfahan,28/06/2024,4062815,Charlene Ramirez,Renewed,Cash
+POL-10757,Harry Hansen,09118568830,29,Fire,Mashad,08-27-2025,2460409,Reginald Juarez,Expired,Credit Card
+POL-10420,Zachary Reyes,00989687870894,69,Travel,Shiraz,2025-02-12,2305626,Renee Cole,Expired,Bank Transfer
+POL-10635,Kelsey Moon,,34,Fire,Tabriz,27/06/2024,3286131,Charlene Ramirez,Cancelled,Installment
+POL-10096,Robin Davidson,,150,Life,Karaj,2025/09/05,"11,037,116",Maria Beck,Renewed,Bank Transfer
+POL-10586,Kathy Kramer,0967-013-9165,21,life,tehran,04-21-2024,"8,949,972",John Robinson,Cancelled,Installment
+POL-11172,Maria Leonard,0947-867-6432,22,Liabilty,TEHRAN,2024/09/24,3707119,Kevin Hernandez,Active,Bank Transfer
+POL-10871,Robert Copeland,+989527142374,19,Liability,shiraz,2023-09-26,5245360,Crystal Murray,Active,Cash
+POL-10597,Jeffrey Griffin,00989563188419,74,Motor,isfahan,02-20-2024,6133133,Matthew Donaldson,Active,Cash
+POL-10125,Brenda Manning,09197204238,21,motor,karaj,01-03-2026,7181796,Marissa Johns,Expired,Bank Transfer
+POL-10557,Nicole Elliott,00989779823993,29,travel,Mashhad,2025/08/30,2379764,Brett Davis,Cancelled,Bank Transfer
+POL-10054,Michael Jimenez,09194634144,56,MOTOR,tabriz,2026/03/10,,John Robinson,Renewed,Credit Card
+POL-10284,,00989798148401,22,liability,shiraz,03-11-2025,4815816,Christopher Stone,Expired,Installment
+POL-10123,Anthony Lewis,+989617080039,52,MOTOR,tehran,12-25-2025,3809661 تومان,Matthew Donaldson,Expired,Credit Card
+POL-10099,David Maddox,00989586537760,20,motor,tehran,2024/06/01,4980664,Raymond Walters,Cancelled,Cash
+POL-10529,Kathryn Robles,09833783357,19,FIRE,karaj,09-17-2025,2464507 تومان,Rachel Little,Active,Installment
+POL-11076,David Kelly,0916-095-3218,66,liability,tehran,2026/02/16,-1,Matthew Donaldson,Active,Cash
+POL-10350,  Travis Romero   ,+989939147392,63,Health,isfahan,2024-03-07,9383736,Brett Davis,Expired,Credit Card
+POL-10681,,00989853458506,70,Life ,Shiraz,2023-10-22,10520900,Brett Davis,Expired,Bank Transfer
+POL-10097,Paige Martin DVM,09237094262,26,Liability,Shiraz,2023-08-17,5115342,Mary Roth,Active,Cash
+POL-10431,Jonathan Harris,09105528693,25,travel,Shiraz,10-08-2025,1412741,Kevin Hernandez,Expired,Credit Card
+POL-10430,Jay Cook,0979-175-1274,46,FIRE,shiraz,06/09/2024,,Charlene Baker,Renewed,Bank Transfer
+POL-10887,Connie Ward,09053252850,25,Travle,shiraz,07/05/2025,1066462 تومان,Jamie Peters,Renewed,Credit Card
+POL-10915,Laura Williams,+989201488534,64,liability,Mashad,2025-04-13,6827505 تومان,Christopher Stone,Cancelled,Bank Transfer
+POL-10606,Alexis Garcia,+989196456839,45,FIRE,karaj,05-20-2024,1305199,Michael Clark,Cancelled,Credit Card
+POL-10484,Erik Joyce,0957-020-6607,51,Travel,Karaj,2023-07-31,2308277,Charlene Ramirez,Renewed,Cash
+POL-10984,Kim Turner,09136264506,36,MOTOR,Karaj,2023/08/08,6057607,Crystal Murray,Expired,Installment
+POL-10012,Timothy King,00989082691115,61,motor,isfahan,07-05-2026,6399742,Sarah Patterson,Renewed,Credit Card
+POL-11114,Ronald Vargas,0924-687-3305,32,life,Tehran,02/03/2025,16111848,Rachel Little,Active,Credit Card
+POL-10385,Denise Hernandez,00989797267197,54,Liabilty,Mashhad,13/09/2025,6146306,Raymond Walters,Cancelled,Bank Transfer
+POL-10237,Leslie Adams,0935-547-1503,69,Life ,Tehran,04-20-2026,12989519,Raymond Walters,Cancelled,Credit Card
+POL-10572,Joseph Vargas,,73,Life,Tabriz,01-30-2025,21498778,Taylor Price,Active,Credit Card
+POL-10048,Diane Pineda,00989649006026,52,LIFE,karaj,2025-08-17,"10,021,492",Julian May,Renewed,Installment
+POL-10013,Dr. Kevin Davis DDS,+989076275400,72,MOTOR,tabriz,2025-08-29,"4,617,642",Brian Thomas,Cancelled,Installment
+POL-10685,Jenna Davidson,09297230454,55,Travel,Tehran ,24/06/2024,545672,Jamie Peters,Expired,Credit Card
+POL-10841,Andrew Andrade,00989603559452,30,Motor,tabriz,07-18-2025,7391549,Jacqueline Taylor,Expired,Installment
+POL-10611,Lisa Curtis,09037824018,32,Life,mashhad,2023/10/26,15471308,Taylor Price,Active,Credit Card
+POL-10837,Christopher Gross,,46,fire,Shiraz,2024/05/21,2818873,Reginald Juarez,Expired,Bank Transfer
+POL-10308,Leroy Sanchez,09835707478,64,Travel,Tehran,2026/03/23,2248227,Brett Davis,Renewed,Bank Transfer
+POL-10253,Samantha Howard,0900-923-7649,61,LIFE,karaj,2025-03-08,10705244,Marissa Johns,Active,Bank Transfer
+POL-11170,Jacob Adams,09854768444,55,Health,Karaj,17/02/2024,5450255 تومان,Rachel Little,Renewed,Bank Transfer
+POL-11035,Gina Love,09677700865,46,Life,shiraz,20/08/2023,,Maria Beck,Cancelled,Installment
+POL-10020,Michael Reid,0985-874-2267,64,FIRE,karaj,2025/03/08,4349240,Bailey Diaz,Expired,Cash
+POL-11093,Andrew Sawyer,0930-687-1911,54,health,karaj,14/09/2025,7532131,Taylor Price,Active,Credit Card
+POL-10525,Shelby Wong,09809502554,70,Liability,Shiraz,04-05-2025,5708896,Mary Roth,Active,Credit Card
+POL-11246,Pamela Johnson,,43,fire,isfahan,02/07/2025,4613443,Crystal Murray,Cancelled,Cash
+POL-10880,Joseph Mendoza,+989210421228,26,liability,Tabriz,2025/10/24,6696054,Joseph Holmes,Active,Cash
+POL-10374,Mark Green,00989197484739,32,Helth,Tabriz,2023-12-03,9913962,Brett Davis,Cancelled,Credit Card
+POL-10838,Shelly Jordan,0920-997-2137,33,health,Tabriz,07-09-2023,8431745,Crystal Murray,Expired,Credit Card
+POL-11141,Jorge West,00989799434343,39,Travel,Shiraz,2025-06-21,2164808,Charlene Baker,Expired,Cash
+POL-10855,Becky Freeman,+989174812939,74,Life,karaj,29/04/2024,20223071,Matthew Donaldson,Expired,Installment
+POL-11104,  Joe Watson   ,+989533814266,45,life,Karaj,07-19-2024,14549306,Jacqueline Taylor,Expired,Bank Transfer
+POL-10610,Lori Gibbs,0977-458-9693,41,LIFE,shiraz,2025-09-17,,Reginald Juarez,Expired,Bank Transfer
+POL-11063,John Lucas,09055864067,34,Moter,tehran,2025/06/04,4968603,Crystal Murray,Active,Cash
+POL-10205,Mark Hunter,0920-755-4553,50,Helth,isfahan,10/05/2024,"10,478,030",Julian May,Cancelled,Cash
+POL-10330,Daniel Olson,00989311524693,20,Helth,Tabriz,03/05/2025,9793683,Jacqueline Taylor,Expired,Bank Transfer
+POL-10536,Christy Townsend,+989130896219,72,health,Isfahan,2025-03-29,9298404,Sarah Patterson,Renewed,Cash
+POL-10733,Linda Morales,0925-398-7618,51,travel,karaj,2023/07/31,1073877,Raymond Walters,Expired,Installment
+POL-10633,Rhonda Wilson,0920-436-4535,49,fire,Mashhad,11/12/2025,5034715,Jamie Peters,Active,Bank Transfer
+POL-11185,Bethany Ewing,0908-740-3565,45,Fire,Tehran ,2024-04-07,"3,394,270",Brett Davis,Cancelled,Bank Transfer
+POL-10416,Kelsey Carpenter,+989666728082,23,travel,Isfahan,2026/05/18,2145209,Reginald Juarez,Cancelled,Installment
+POL-10017,Bianca Solomon,00989442149696,21,Liabilty,isfahan,2023-10-23,7869156,Marissa Johns,Renewed,Bank Transfer
+POL-11076,David Kelly,0916-095-3218,66,liability,tehran,2026/02/16,-1,Matthew Donaldson,Active,Cash
+POL-10489,Mark Hill,00989418475324,71,Health,Tabriz,07/02/2025,6252043,Renee Cole,Renewed,Bank Transfer
+POL-10718,Ashley Adams,00989567897765,35,health,Shiraz,2026-06-18,-1,Michael Clark,Cancelled,Credit Card
+POL-10547,Robert Jones,09419025396,56,MOTOR,TEHRAN,2025/08/23,8882228,Raymond Walters,Cancelled,Credit Card
+POL-10426,  Kenneth Mcdonald   ,00989165950796,27,health,Isfahan,2023-12-04,"8,171,758",Mary Roth,Cancelled,Bank Transfer
+POL-10523,Catherine Smith DDS,09518093322,54,Travle,isfahan,2023/08/23,2331118,Brian Thomas,Expired,Installment
+POL-10641,Richard Dennis,09139156582,32,Motor,Tehran,2025-03-14,6086317,Bailey Diaz,Cancelled,Cash
+POL-10115,Timothy Bennett,09283554360,72,Liability,Esfahan,2024/08/06,5752394 تومان,Taylor Price,Active,Cash
+POL-10283,Susan Mcdowell,09078401633,46,Health,Shiraz,11-15-2023,4417756,Renee Cole,Expired,Installment
+POL-10280,Robin Dominguez,09221911177,44,travel,Mashad,2024-12-15,1204633 تومان,Jamie Peters,Active,Installment
+POL-10493,Sandra Romero,0905-463-5153,49,Travel,Mashhad,2023/11/08,2264580,Brian Thomas,Renewed,Bank Transfer
+POL-10504,Bryan Williams,09131847157,72,HEALTH,isfahan,26/05/2025,6899571,Brian Thomas,Active,Installment
+POL-10157,Brandi Brooks,00989364188016,71,MOTOR,Isfahan,2026-05-18,7919157,Taylor Price,Renewed,Cash
+POL-10305,  Earl Wells   ,,71,FIRE,Esfahan,22/08/2023,3488761 تومان,Sarah Patterson,Cancelled,Installment
+POL-10478,Christy Steele,00989077352657,45,Fire,Isfahan,12-03-2025,5666298,Matthew Donaldson,Expired,Cash
+POL-10140,Alison Johnson,+989584840975,34,Travle,Shiraz,2026-04-20,2025188,Jacqueline Taylor,Expired,Credit Card
+POL-10981,Austin Fischer,,25,Travel,shiraz,2023/12/25,1636571,Sarah Patterson,Renewed,Cash
+POL-11079,James Allen,,45,Fire,Karaj,2024/06/23,2426352,Maria Beck,Renewed,Credit Card
+POL-10488,Brandon Johnson,09449244577,25,Liabilty,tabriz,2024-08-20,,Reginald Juarez,Expired,Credit Card
+POL-10268,Joseph Cox,09971195432,36,FIRE,Mashhad,09-16-2025,3798315 تومان,Brian Thomas,Cancelled,Bank Transfer
+POL-10739,Brandy Dickerson,+989983174835,52,Life,shiraz,2026-06-16,14429348,Taylor Price,Renewed,Installment
+POL-10978,Stacey Perez,00989761163674,27,Travel,tehran,2025-11-04,1040518,Brett Davis,Renewed,Credit Card
+POL-10224,  Mr. Kyle Mitchell Jr.   ,09888036717,54,life,mashhad,2026/01/26,-1,Taylor Price,Renewed,Cash
+POL-10941,Jason Hall,09150086516,27,Health,tabriz,2024/03/18,3162561,John Robinson,Cancelled,Installment
+POL-10573,Allison Wood,09561931123,66,motor,Tabriz,10-04-2023,"2,571,878",Jacqueline Taylor,Active,Credit Card
+POL-10289,Erik Davis,00989586514689,49,Travel,isfahan,2025/04/23,,Michael Clark,Expired,Cash
+POL-10700,Kathleen Ruiz,+989588073161,20,Life ,Shiraz,2026/05/04,16583509,Kevin Hernandez,Cancelled,Cash
+POL-10875,Antonio Odonnell,+989042798660,66,Travle,mashhad,23/04/2026,815517,Michael Clark,Renewed,Installment
+POL-10369,Steven Powell,00989419980308,62,motor,karaj,2025/08/16,7511545,Crystal Murray,Expired,Installment
+POL-10396,Dr. Dorothy Murphy,0901-528-8998,66,LIFE,TEHRAN,2023/07/11,7033905,Joseph Holmes,Expired,Cash
+POL-10023,Morgan Valenzuela,09782005936,31,Moter,Shiraz,2024/04/10,-1,Crystal Murray,Cancelled,Cash
+POL-10662,Joel Dunn,00989626770582,23,liability,Shiraz,09/07/2024,"7,769,955",Crystal Murray,Cancelled,Installment
+POL-10564,Shawn Wallace,09011634687,56,LIFE,Isfahan,07-28-2025,20080812,Reginald Juarez,Renewed,Credit Card
+POL-10913,Russell Gonzalez,09023553239,39,Motor,Isfahan,2024-12-07,5045086,Julian May,Expired,Credit Card
+POL-10876,Amanda Hudson,09814480989,55,Motor,Esfahan,19/10/2024,6701929,Jacqueline Taylor,Expired,Bank Transfer
+POL-10946,Steven Harvey,09485093743,33,Fire,Karaj,2025-04-22,3263916,Crystal Murray,Expired,Bank Transfer
+POL-10750,Kevin Shelton,09233877544,0,liability,Tabriz,04-08-2026,5561420,Raymond Walters,Renewed,Credit Card
+POL-11062,Casey Berger,09847127169,37,FIRE,Shiraz,01-12-2025,5399858,Jamie Peters,Expired,Installment
+POL-10452,Eric Miller,0942-694-6361,38,Liability,tehran,30/11/2025,8808036 تومان,Charlene Ramirez,Active,Bank Transfer
+POL-10953,Ashley Klein,09806922185,67,Liabilty,Karaj,2024/02/10,8433023,Mary Roth,Renewed,Credit Card
+POL-10652,Andrew Pratt,00989569789754,46,Fire,shiraz,26/02/2025,1958807 تومان,Sarah Patterson,Active,Cash
+POL-11109,Scott Rodriguez,09746017227,42,Liabilty,Esfahan,21/07/2025,3795231,Brian Thomas,Active,Bank Transfer
+POL-11183,Patrick Kelley,00989859611127,29,travel,isfahan,2025-05-04,655970,John Robinson,Active,Installment
+POL-10671,William Adams,09757312807,44,Fire,Mashhad,2025-09-23,4548103,Brett Davis,Active,Cash
+POL-10590,Charlotte Hudson,0984-631-9761,63,Travel,Isfahan,2025/12/25,2590593,Raymond Walters,Expired,Cash
+POL-10231,Jessica Goodwin,+989565053970,58,fire,tabriz,2024/09/08,5024769,Marissa Johns,Renewed,Installment
+POL-10147,Robin Morgan,00989246831568,50,Travle,Esfahan,11-25-2024,1091091,Julian May,Renewed,Bank Transfer
+POL-10167,Vernon Blackburn,00989935026788,49,Liabilty,Esfahan,2025-02-08,2748847,Michael Clark,Cancelled,Credit Card
+POL-10920,Mr. Christopher Martin,00989384144026,31,health,karaj,2025-09-29,"7,132,674",Bailey Diaz,Expired,Credit Card
+POL-10070,Raymond King,+989217713297,72,FIRE,TEHRAN,03-14-2024,4116493,Marissa Johns,Renewed,Bank Transfer
+POL-10870,Teresa Hansen,09631700587,42,Travel,tehran,01/10/2023,1671742,Kevin Hernandez,Active,Credit Card
+POL-10713,Kathryn Coleman,09291888780,40,Life,tehran,11-27-2025,12928670,Jamie Peters,Active,Credit Card
+POL-10171,April James MD,,59,Life,Mashad,2025-10-16,15360894 تومان,Brett Davis,Renewed,Cash
+POL-10697,  David Wells   ,+989831359029,19,Health,shiraz,11-05-2025,,Renee Cole,Renewed,Cash
+POL-10168,Ana Parker,09221804909,42,Health,Karaj,07/04/2026,6835127,Mary Roth,Renewed,Installment
+POL-10264,Philip Nelson,09593034036,23,Moter,Shiraz,2024-03-13,5382237,Jacqueline Taylor,Cancelled,Credit Card
+POL-10734,Angela Henry,09094433577,68,Life,Esfahan,05/02/2024,17699027,Jamie Peters,Expired,Cash
+POL-10272,Ronald Joseph,0953-953-0621,40,FIRE,Mashad,2025-12-20,"2,923,316",Jacqueline Taylor,Cancelled,Credit Card
+POL-10395,Jeffrey Wade,09562250166,55,Liabilty,tehran,09-20-2024,7162352,Mary Roth,Cancelled,Credit Card
+POL-10347,James Mcconnell,0913-274-5777,45,MOTOR,isfahan,2024-11-16,1856541,Reginald Juarez,Renewed,Credit Card
+POL-10379,Mrs. Natasha Hill,09508586726,25,travel,Mashad,2025-04-16,2499090,Julian May,Cancelled,Cash
+POL-10930,Jody Floyd,09941863381,51,HEALTH,TEHRAN,18/11/2023,9224669,Raymond Walters,Active,Installment
+POL-10042,Daniel Abbott,00989457027115,22,Helth,Tabriz,2024-10-31,10233402,Bailey Diaz,Cancelled,Bank Transfer
+POL-10862,Carl Hayes,+989125163164,66,Travle,Shiraz,2023-10-22,1314724,Charlene Baker,Cancelled,Installment
+POL-11016,Matthew Goodman,,63,LIFE,Esfahan,07-09-2025,14004358,Taylor Price,Cancelled,Bank Transfer
+POL-10518,  Stephen Mendez   ,+989464214688,43,liability,Mashhad,03-27-2025,"3,498,924",Charlene Baker,Active,Cash
+POL-10132,Stephen Mccarty,09939912373,55,life,mashhad,2023-08-19,17428241,Brian Thomas,Cancelled,Credit Card
+POL-10418,Danielle Adams,0963-934-4089,59,life,tabriz,23/07/2023,20466249,Mary Roth,Cancelled,Cash
+POL-10038,Gerald Thomas,0914-936-6888,42,FIRE,Tehran ,2026-03-02,2987896,Mary Roth,Expired,Cash
+POL-10306,Erik Reed,0936-168-5484,18,motor,Karaj,07-29-2024,5067757,Raymond Walters,Renewed,Credit Card
+POL-10370,Kimberly Glover,0915-585-1736,70,Life ,isfahan,2024-07-26,17234601,Taylor Price,Active,Installment
+POL-10462,Daniel Wilson,00989913660927,69,health,shiraz,2023-07-19,-1,Crystal Murray,Expired,Bank Transfer
+POL-10702,Terri Bishop,00989796284772,48,travel,Tabriz,01/04/2024,"3,021,017",John Robinson,Renewed,Cash
+POL-10270,Elizabeth Noble,0940-065-2920,18,Liability,Shiraz,2024-05-14,-1,Reginald Juarez,Expired,Credit Card
+POL-10328,Darrell Cooper,+989069055176,57,Travel,shiraz,2024-02-08,-1,Raymond Walters,Expired,Cash
+POL-11133,,09807217581,150,life,Shiraz,24/10/2023,17925856,Bailey Diaz,Cancelled,Bank Transfer
+POL-10166,Sandra Reed,00989279610725,19,FIRE,Tehran,2025-04-21,2616921,Joseph Holmes,Cancelled,Installment
+POL-10767,,09245854964,61,FIRE,tabriz,30/12/2023,3806549,Brian Thomas,Expired,Credit Card
+POL-10071,Stephanie Williams,+989578096463,45,Travle,Mashhad,2025-09-15,-1,Charlene Ramirez,Expired,Cash
+POL-11018,April King,0922-460-5824,49,liability,Tehran,04-09-2025,2989170,Charlene Baker,Cancelled,Credit Card
+POL-10789,Laurie Bennett,00989154030114,43,Liability,Mashad,23/09/2025,"3,171,541",Michael Clark,Active,Bank Transfer
+POL-10806,Anthony Savage,09910396197,35,health,Shiraz,2025-06-16,-1,Christopher Stone,Active,Credit Card
+POL-11039,Kurt Perez,0967-071-2929,25,Fire,TEHRAN,2024-04-26,"2,530,842",Renee Cole,Cancelled,Bank Transfer
+POL-10661,Craig Wilkerson,00989704322889,-5,life,isfahan,02-11-2026,9838686 تومان,Crystal Murray,Expired,Credit Card
+POL-10509,Kevin Bryant,09232851303,39,Motor,Tehran ,2024/12/23,5019139,Brian Thomas,Active,Installment
+POL-10869,Eduardo Johnson,+989675079083,31,FIRE,Shiraz,10/06/2026,2572065,Marissa Johns,Active,Cash
+POL-10562,Norma Mejia,,65,Motor,Shiraz,10-25-2024,4054098,Maria Beck,Active,Cash
+POL-10316,Christopher Barr,00989129708421,74,MOTOR,karaj,2024-02-09,6452150 تومان,Jacqueline Taylor,Expired,Bank Transfer
+POL-10752,Scott Hanna MD,0939-094-8111,57,Helth,shiraz,2026-05-30,"4,892,764",Jamie Peters,Expired,Bank Transfer
+POL-10004,Chad Hill,09653542596,39,HEALTH,Tabriz,2024-07-09,11790110,Michael Clark,Renewed,Bank Transfer
+POL-10788,Stacy Spencer,+989298619188,72,health,Shiraz,18/06/2024,9932462,Michael Clark,Active,Credit Card
+POL-10663,  Paul Williams   ,00989137285669,36,Life,mashhad,2024/03/06,10184618,Jamie Peters,Cancelled,Credit Card
+POL-11150,Keith Aguilar,+989522229864,42,Liability,karaj,2024-08-09,5448129,Christopher Stone,Cancelled,Credit Card
+POL-10474,Natasha Jones,0956-907-3444,46,FIRE,Karaj,01-02-2024,"3,862,187",Jamie Peters,Cancelled,Credit Card
+POL-10704,Jessica Wilson,09854488151,25,Life,tabriz,2025/03/28,16673819,Michael Clark,Renewed,Cash
+POL-10925,Anthony Chavez,09530797800,42,HEALTH,tabriz,11-29-2025,"8,288,541",Joseph Holmes,Cancelled,Cash
+POL-10825,Bianca Martin,00989207516320,32,MOTOR,Karaj,2024/10/12,3038282,Sarah Patterson,Renewed,Credit Card
+POL-10783,Vanessa Patel,0951-300-9556,72,Travle,mashhad,04-15-2025,1376056,Michael Clark,Active,Cash
+POL-11127,  Henry James   ,+989937612919,39,Health,Karaj,27/10/2025,2518045,Julian May,Renewed,Bank Transfer
+POL-11137,Joseph Lindsey,09142256924,27,Liability,karaj,2023-10-09,3966156,Charlene Baker,Expired,Installment
+POL-10094,Charles Wallace,+989540948934,23,travel,isfahan,2023/08/29,2841676,Marissa Johns,Renewed,Installment
+POL-10095,Mr. Dylan White,0928-964-1717,39,health,isfahan,29/08/2024,4635557,Michael Clark,Active,Cash
+POL-10361,Jessica Martin,,20,Helth,Esfahan,2024/04/12,2934321,Rachel Little,Expired,Cash
+POL-10637,Charles Hall,0968-728-4293,62,Moter,tabriz,14/01/2024,4412350,Jeremiah Jones,Renewed,Bank Transfer
+POL-10729,Kirk Thomas,0966-272-2169,67,Health,isfahan,01-06-2024,,Jeremiah Jones,Expired,Bank Transfer
+POL-10372,Tina Parker,+989679422213,65,Travle,TEHRAN,2024/10/01,1629745,Joseph Holmes,Renewed,Credit Card
+POL-10706,Carrie Barrera,+989129678782,64,travel,shiraz,09/02/2025,"2,759,118",Jeremiah Jones,Active,Bank Transfer
+POL-10666,Brandon Berry,09525069751,32,Liability,karaj,24/05/2026,3122690,Jeremiah Jones,Active,Bank Transfer
+POL-10058,Angela Weiss,0928-961-0693,66,Liability,tabriz,2024-03-02,-1,Brett Davis,Active,Bank Transfer
+POL-11131,Katie Marshall,+989690968746,19,FIRE,karaj,10-28-2024,5380348,Jacqueline Taylor,Active,Installment
+POL-10409,Deanna Lee,0901-066-1134,31,Helth,karaj,2026/03/30,12576845,Bailey Diaz,Renewed,Credit Card
+POL-10415,Stephanie Lewis,00989242861150,57,Helth,TEHRAN,01-01-2025,"2,384,976",Julian May,Cancelled,Installment
+POL-10024,Douglas Schmidt,00989716718910,21,HEALTH,Mashad,2026-05-05,5136420,Rachel Little,Expired,Credit Card
+POL-10732,Amy Huff,,32,travel,Tehran ,2026-06-06,2941225 تومان,Jeremiah Jones,Expired,Credit Card
+POL-10522,Rebekah Ball,0960-235-2779,34,Liability,Esfahan,29/12/2024,"2,555,610",Christopher Stone,Renewed,Credit Card
+POL-10860,George Weaver,00989524223272,27,Fire,TEHRAN,2025-08-24,4704013,Taylor Price,Active,Bank Transfer
+POL-10244,Lynn Strickland,+989921653726,55,travel,Tehran ,2024/01/28,2054043,Renee Cole,Renewed,Cash
+POL-10025,Michael Garcia,09973435388,19,Liability,Karaj,07-31-2025,4386422,Brian Thomas,Expired,Credit Card
+POL-10996,Christina Bell PhD,0999-373-4427,27,Moter,tabriz,10-09-2024,8134267,Renee Cole,Cancelled,Cash
+POL-10377,Charles Camacho,09402469636,68,Fire,Mashhad,03-24-2025,4541693,Mary Roth,Expired,Bank Transfer
+POL-10222,Angela Garza,0966-884-7687,56,health,Karaj,2024-10-07,3709588 تومان,Charlene Baker,Active,Cash
+POL-10667,Tommy Thomas,00989462119268,61,Health,Mashad,26/09/2025,11465035 تومان,Raymond Walters,Cancelled,Cash
+POL-10105,Walter Baker,09598409785,35,HEALTH,karaj,2024-05-05,5804741,Crystal Murray,Renewed,Credit Card
+POL-11231,Natalie Sullivan,,58,Liability,Shiraz,2023-07-22,"6,191,575",Rachel Little,Active,Installment
+POL-10130,Breanna Compton,0939-241-6664,39,Fire,Tehran ,2025/09/09,4761088,Bailey Diaz,Expired,Credit Card
+POL-10153,Nancy Arroyo,,40,travel,Tabriz,2026-01-11,1514637,Crystal Murray,Cancelled,Credit Card
+POL-10955,Lauren Goodman,+989839601553,44,Travle,mashhad,18/11/2023,1865140,Taylor Price,Renewed,Cash
+POL-11051,Catherine Foster,00989158036973,31,liability,Esfahan,2024-09-06,5478999,Kevin Hernandez,Cancelled,Cash
+POL-10554,Meghan Gilbert,0904-667-2843,71,LIFE,Esfahan,23/08/2023,-1,Jacqueline Taylor,Cancelled,Credit Card
+POL-10961,Brian Morrow,+989339954136,56,MOTOR,Mashhad,20/03/2024,7429230,Charlene Baker,Cancelled,Credit Card
+POL-10751,Katherine Thompson,00989733278018,52,Moter,shiraz,2024/12/17,5843679,Rachel Little,Expired,Credit Card
+POL-10446,Jessica Curry,00989002503460,71,Travle,Esfahan,21/09/2025,-1,John Robinson,Cancelled,Cash
+POL-10828,Kelly Chan,09389125170,60,motor,tehran,10-13-2024,7070557,Rachel Little,Active,Credit Card
+POL-10075,Rebecca Wilkins,+989119484034,25,MOTOR,Shiraz,24/09/2024,4165668,Brian Thomas,Active,Cash
+POL-10036,Mrs. Jennifer Jacobs,00989882749582,62,fire,Mashad,31/10/2025,4115699,Jeremiah Jones,Expired,Credit Card
+POL-11130,Mrs. Angela Nelson DDS,0972-232-0288,22,Life ,tehran,12-20-2023,13935110,Charlene Baker,Renewed,Cash
+POL-10687,  Lisa Patel   ,+989578210995,55,liability,Esfahan,2024-03-08,3359556,Julian May,Expired,Installment
+POL-10399,Mariah Coleman,09307574630,51,life,Karaj,2025-10-05,"12,282,066",Crystal Murray,Renewed,Credit Card
+POL-11060,Kenneth Lewis,09644606153,57,FIRE,Tehran,2023-12-20,2297961,Christopher Stone,Renewed,Installment
+POL-10824,Catherine Soto,00989088172833,54,fire,Isfahan,28/03/2025,2332513,Julian May,Expired,Credit Card
+POL-10680,Monica Brown,09561243288,70,liability,tabriz,2025-09-22,5666982,Jacqueline Taylor,Expired,Bank Transfer
+POL-10831,Ashley Caldwell,0979-284-7196,64,health,mashhad,2023-10-26,11028368,Bailey Diaz,Expired,Cash
+POL-10199,,0957-125-6472,36,HEALTH,TEHRAN,02-24-2024,9259061,Julian May,Cancelled,Cash
+POL-10952,Kimberly Morgan,00989351395925,56,travel,tabriz,2024-12-30,2299716,Crystal Murray,Active,Credit Card
+POL-10134,Dr. Courtney Perry,00989746437586,44,Moter,Tehran ,2026-03-21,7638921,Jeremiah Jones,Cancelled,Installment
+POL-10966,Patrick White,09559179678,66,LIFE,Shiraz,2025-06-15,14449438,John Robinson,Expired,Bank Transfer
+POL-10259,  Amy Jensen   ,+989024547821,25,Fire,Tehran,30/03/2026,3942165 تومان,Charlene Baker,Expired,Credit Card
+POL-10334,Elizabeth Smith,0925-496-9094,59,Liability,Esfahan,2025-07-20,4245143,Renee Cole,Expired,Installment
+POL-10669,Matthew Davis,09812740571,42,travel,shiraz,03-06-2026,1982645,Brett Davis,Active,Installment
+POL-10003,Juan Sawyer,00989836394225,40,Life,mashhad,2025/02/26,,Raymond Walters,Expired,Bank Transfer
+POL-10598,George Morris,0985-376-0746,20,liability,Mashhad,2023-08-24,4065289 تومان,Matthew Donaldson,Cancelled,Cash
+POL-10210,Natalie Duncan,00989535734900,-5,travel,isfahan,2023/08/18,2168595,Maria Beck,Cancelled,Bank Transfer
+POL-10196,Hannah Gibson,0923-226-2483,71,Helth,mashhad,2023/11/29,6991886,Christopher Stone,Active,Credit Card
+POL-10656,Donald Gross,+989095144352,69,fire,Tehran ,2023-10-12,4778363,Christopher Stone,Cancelled,Cash
+POL-11020,James Stanley MD,+989918169250,30,life,TEHRAN,2025/07/01,14247952,Raymond Walters,Cancelled,Installment
+POL-11215,Dr. Julia Swanson,09549960101,31,liability,Tabriz,2024/07/15,"4,864,200",Charlene Ramirez,Renewed,Credit Card
+POL-10026,David Mullen,0932-924-7563,21,Liabilty,tabriz,2026/06/22,2933091,Christopher Stone,Expired,Credit Card
+POL-10324,Joshua Smith,0967-544-4837,70,Travle,isfahan,08-09-2025,2230439,Rachel Little,Renewed,Cash
+POL-10467,Alvin Gutierrez,00989000365450,37,Travel,TEHRAN,09-10-2024,1109179,Taylor Price,Cancelled,Bank Transfer
+POL-11152,James Crawford,0944-066-5624,28,motor,tabriz,01-16-2026,5771163,Mary Roth,Expired,Credit Card
+POL-11192,Juan Rice MD,09307240310,52,Liabilty,Karaj,14/07/2025,5605595,Maria Beck,Cancelled,Credit Card
+POL-10603,Alex Brown,+989174862050,41,Fire,Mashad,2026-01-04,3315104,Rachel Little,Expired,Cash
+POL-10061,Tamara White,09116804397,40,HEALTH,isfahan,11-05-2024,9393654,Jacqueline Taylor,Cancelled,Bank Transfer
+POL-10548,Ashley Smith,00989092817914,66,HEALTH,Mashhad,2025/08/16,10365734,Marissa Johns,Active,Bank Transfer
+POL-11088,Robert Clarke,+989532184678,30,Liability,TEHRAN,2024/11/28,2883763,Kevin Hernandez,Expired,Credit Card
+POL-10839,Aaron Davis,09606317258,59,Helth,Tabriz,2026-04-02,11340805,Michael Clark,Cancelled,Credit Card
+POL-10339,Danielle Mcdaniel,+989305605884,43,travel,karaj,16/05/2025,"2,021,158",Mary Roth,Cancelled,Cash
+POL-10571,Rebekah Nelson,09817826415,72,Fire,Mashad,2023-09-04,5215979,Maria Beck,Cancelled,Credit Card
+POL-10754,Paul Ward,0998-921-7786,20,Travel,Mashhad,28/12/2024,1066460,Charlene Baker,Active,Credit Card
+POL-10389,,,27,fire,Tehran,2024/10/10,-1,Jacqueline Taylor,Renewed,Credit Card
+POL-11248,Patricia May,0920-902-2543,68,Life,Tehran ,01-12-2024,,Mary Roth,Renewed,Bank Transfer
+POL-10705,Jennifer Thomas,+989873734061,67,health,karaj,2025-06-08,7587363,Kevin Hernandez,Renewed,Bank Transfer
+POL-10992,John Wilson,09455297295,0,Liability,Tabriz,18/04/2026,6800620,Julian May,Renewed,Bank Transfer
+POL-10473,  Lisa Strickland   ,+989259710469,73,HEALTH,Tabriz,09/12/2025,4131293,Maria Beck,Expired,Installment
+POL-10513,James Peters,+989390334472,34,Travle,Esfahan,2024/05/21,2200186,Bailey Diaz,Expired,Cash
+POL-10249,Steven Lamb,09168598624,65,Liabilty,Mashad,2026-03-31,5118513,Bailey Diaz,Expired,Bank Transfer
+POL-11045,Jonathan King,0946-342-3137,56,life,Tehran,05-27-2026,8697714 تومان,Reginald Juarez,Active,Credit Card
+POL-10980,Paul Garcia,+989365282391,51,Health,Tabriz,2024-09-29,13177539,Renee Cole,Renewed,Credit Card
+POL-10008,Michelle Leon,+989066078115,61,Fire,Mashhad,2026/05/02,4290354,Bailey Diaz,Expired,Credit Card
+POL-11174,William Murphy,09276440674,-5,Helth,Mashhad,23/10/2024,6794952,Mary Roth,Active,Bank Transfer
+POL-10672,Aaron Hart,09860690133,20,Health,Karaj,02/11/2024,9103829,Maria Beck,Renewed,Bank Transfer
+POL-11102,Colin Williams,0900-737-3755,47,liability,Isfahan,2023/09/29,5530224,Charlene Baker,Active,Cash
+POL-10300,Kristina Randall,0943-668-7805,62,liability,Tabriz,2025-03-18,4015206,Rachel Little,Renewed,Credit Card
+POL-10941,Jason Hall,09150086516,27,Health,tabriz,2024/03/18,3162561,John Robinson,Cancelled,Installment
+POL-10906,Eric Williams,0993-311-4158,31,Liabilty,shiraz,02-06-2026,3142755,Marissa Johns,Expired,Credit Card
+POL-10127,Julie Cole,00989342917114,73,Helth,mashhad,03-29-2025,5286972,Michael Clark,Renewed,Credit Card
+POL-10074,Melissa Grant,0937-789-1353,23,Liability,Tehran ,2024/11/09,2975915,Taylor Price,Cancelled,Credit Card
+POL-11216,Lisa Hicks,09755515999,65,Liabilty,mashhad,2024-06-14,4667208,Sarah Patterson,Expired,Cash
+POL-10623,,+989362426525,65,liability,Karaj,2026-02-16,6663055,Michael Clark,Renewed,Credit Card
+POL-10956,Katherine Mercer MD,0930-010-6468,54,travel,Tehran,2024/12/29,2724685,Bailey Diaz,Renewed,Bank Transfer
+POL-10057,Jennifer Santana,+989488906079,30,liability,tehran,06-12-2024,6232853,John Robinson,Expired,Installment
+POL-11084,Tammy Carroll,00989610029743,28,MOTOR,Mashad,05-09-2025,8065336 تومان,Crystal Murray,Expired,Cash
+POL-10088,Susan Jackson,0908-942-1167,70,life,Karaj,2024-03-17,21450819,Rachel Little,Expired,Installment
+POL-11237,John Jackson,+989692957059,37,Health,Isfahan,08-24-2024,10062344,Jamie Peters,Expired,Installment
+POL-10297,Wesley Salazar,+989982996699,54,travel,Isfahan,2023-07-24,2484533,Christopher Stone,Active,Installment
+POL-10651,,0998-700-1185,40,life,isfahan,17/06/2025,12943647,Jacqueline Taylor,Renewed,Cash
+POL-10217,  David Huang   ,0962-390-3851,42,Life ,TEHRAN,01-26-2024,16382847,Brett Davis,Active,Cash
+POL-10660,Rebecca Vasquez,0931-692-4200,38,FIRE,shiraz,2023/08/05,3733104,Matthew Donaldson,Expired,Bank Transfer
+POL-10498,Lisa Green,09023356541,50,fire,tehran,2025/09/01,4277132 تومان,Reginald Juarez,Cancelled,Bank Transfer
+POL-10799,Tasha Smith,00989882088543,19,Health,isfahan,11/01/2024,12356894 تومان,Taylor Price,Expired,Bank Transfer
+POL-10740,Nancy Schneider,+989681152476,47,Travel,Mashhad,02-03-2024,1714219,Jamie Peters,Renewed,Credit Card
+POL-10344,Christine Bean,+989549456762,32,FIRE,karaj,2024/12/31,3116305,Crystal Murray,Expired,Credit Card
+POL-10886,Kenneth Prince,0911-639-5814,55,liability,mashhad,04-29-2025,5350678,Brett Davis,Renewed,Installment
+POL-11125,Kristopher Taylor,09434506698,51,life,Isfahan,2025-02-11,23616205,Jamie Peters,Cancelled,Bank Transfer
+POL-10414,Thomas West,09164818597,70,FIRE,Tehran ,07/03/2026,4824198 تومان,Taylor Price,Renewed,Credit Card
+POL-10756,Patrick Delacruz,00989478801199,27,Motor,Isfahan,2026/01/24,,Julian May,Expired,Cash
+POL-10816,,00989969545389,61,health,tehran,2025/09/24,6466491,Julian May,Active,Installment
+POL-10533,Joyce Maldonado,00989878093599,28,Helth,karaj,2024-07-01,"9,394,452",Jamie Peters,Renewed,Bank Transfer
+POL-11144,Cynthia Vaughan,0985-767-2657,45,Liabilty,mashhad,2026/07/02,5129109,Matthew Donaldson,Expired,Credit Card
+POL-11101,Charles Williams,00989985206434,37,Helth,karaj,13/05/2024,8724300,Jacqueline Taylor,Expired,Credit Card
+POL-11025,Anthony Leach,0946-450-5300,39,Motor,Mashhad,2024-03-23,,Reginald Juarez,Renewed,Credit Card
+POL-10410,Stephanie Harris,0962-175-8843,50,Health,Esfahan,2023/07/26,8600457,Christopher Stone,Active,Bank Transfer
+POL-10945,Melody Johnson,00989874997326,45,fire,karaj,12-04-2024,3506882,Charlene Baker,Active,Cash
+POL-10648,Andrea Ritter,09589087777,29,fire,Mashhad,2024/08/31,"3,329,293",Jeremiah Jones,Cancelled,Bank Transfer
+POL-10266,Becky Stewart,+989264856295,64,Fire,Tehran ,01/11/2025,,Raymond Walters,Expired,Cash
+POL-10006,Margaret Clayton,+989771452842,38,Motor,Mashhad,2025-12-05,"4,954,419",Rachel Little,Renewed,Installment
+POL-10797,Jared Barker PhD,+989111812124,70,travel,Shiraz,10-18-2025,2084621,Charlene Baker,Renewed,Bank Transfer
+POL-10122,Cindy Diaz,09117287082,71,Liability,Tehran ,05-17-2024,5262249,Jeremiah Jones,Active,Installment
+POL-10974,Katrina Benjamin,+989131323013,38,Liabilty,karaj,25/09/2023,"3,687,769",Joseph Holmes,Expired,Cash
+POL-10138,Taylor Lynch,,36,motor,mashhad,04-09-2026,7126201,Christopher Stone,Renewed,Cash
+POL-10163,Larry Brown,09828137066,25,Liabilty,karaj,2026-04-30,,Taylor Price,Expired,Credit Card
+POL-11055,,0924-366-8237,73,Health,shiraz,2023-10-27,"9,140,685",Christopher Stone,Renewed,Cash
+POL-11073,John Cohen,,62,motor,Tabriz,10/01/2026,6694591,Kevin Hernandez,Renewed,Bank Transfer
+POL-10820,Michael Pierce,0942-032-5887,20,Helth,Isfahan,07/11/2024,6348439,John Robinson,Expired,Installment
+POL-11132,,+989616797111,27,life,tehran,2025/10/29,9940683 تومان,Bailey Diaz,Active,Credit Card
+POL-10043,Carl Shea,09266385032,59,FIRE,isfahan,2025-01-29,4813320,Renee Cole,Renewed,Installment
+POL-11095,Steve Good,0995-399-9271,53,travel,shiraz,2023-08-27,1520301,Michael Clark,Cancelled,Cash
+POL-10902,  Austin Garcia   ,00989226758875,39,Travel,Shiraz,09/02/2025,1610802,Raymond Walters,Active,Installment
+POL-10541,Holly Parrish,09409448488,62,Life ,Tabriz,28/06/2026,"13,737,227",Jamie Peters,Renewed,Credit Card
+POL-10319,Michelle Gregory,09719205571,72,Liability,shiraz,2025-05-19,"4,844,635",Michael Clark,Renewed,Credit Card
+POL-10883,Maria Wise,09108397779,21,Travle,Shiraz,2025/12/19,1266657,Michael Clark,Active,Installment
+POL-10878,Crystal Brown,00989799088200,53,MOTOR,Mashhad,22/10/2024,6304423,Charlene Ramirez,Active,Bank Transfer
+POL-10620,Susan Macdonald,0967-861-6752,23,HEALTH,isfahan,11-29-2024,4065448,Christopher Stone,Active,Bank Transfer
+POL-10294,Lonnie Johnson,00989796524099,22,Travle,Tehran,15/07/2025,,Jacqueline Taylor,Cancelled,Bank Transfer
+POL-10232,Belinda Leach,09304424923,45,HEALTH,Tabriz,2026-06-12,7012902,Matthew Donaldson,Cancelled,Cash
+POL-10936,Melissa Cowan,+989255766384,23,Motor,Mashhad,25/06/2026,5327110,Marissa Johns,Renewed,Bank Transfer
+POL-10618,Danielle Vargas,00989770226938,51,Motor,shiraz,2025-03-04,5119009,Jamie Peters,Expired,Installment
+POL-10877,Allison Gomez,+989635722402,59,LIFE,Mashhad,2026-01-23,20418306,Julian May,Active,Cash
+POL-11129,Kara Cook,+989380799244,23,Motor,isfahan,08-17-2024,"7,692,578",Joseph Holmes,Cancelled,Credit Card
+POL-10019,Amanda Rivera,0933-168-8872,43,Health,shiraz,2024/08/27,9595170,Crystal Murray,Active,Installment
+POL-10450,Laura Reyes,+989155775591,38,liability,Tehran,07-04-2026,3515592,John Robinson,Active,Installment
+POL-10507,Kristin Rodgers,0918-803-5344,26,Fire,mashhad,2024-12-26,5218824,Matthew Donaldson,Renewed,Installment
+POL-11121,Anthony Kramer,0984-026-1151,74,HEALTH,Shiraz,16/10/2024,"7,914,460",Charlene Baker,Expired,Credit Card
+POL-10558,Michael Barnett,+989751823798,40,Liabilty,Mashad,10/10/2024,"5,644,427",Jeremiah Jones,Active,Installment
+POL-10773,Brenda Morales,+989881801087,70,Liability,Karaj,2024-10-31,5943873,Taylor Price,Active,Credit Card
+POL-11115,Kelly Dixon,+989365724508,65,Life,Esfahan,07/05/2026,,Reginald Juarez,Active,Bank Transfer
+POL-10594,Mr. Raymond Higgins,09552378222,70,Travle,Mashhad,2026-06-10,,Jacqueline Taylor,Expired,Cash
+POL-10810,Jonathan Gibson,+989242199991,42,FIRE,karaj,01-07-2024,4144599,Maria Beck,Active,Cash
+POL-11002,Robin Martinez,09651907218,58,FIRE,Karaj,04-25-2025,2966339,Reginald Juarez,Renewed,Credit Card
+POL-10137,Ashley Hunt,0981-099-3987,50,LIFE,Tehran,08-18-2025,,Christopher Stone,Expired,Credit Card
+POL-10506,Charles Morales,0979-611-2436,47,Travel,mashhad,02-10-2026,1714681,John Robinson,Expired,Installment
+POL-11111,Teresa Stone,09390061941,35,Liability,Isfahan,03/08/2023,4978970,Raymond Walters,Cancelled,Cash
+POL-10585,Mary Ortiz,+989627361874,62,Health,Mashhad,2023-09-02,9904779,Charlene Baker,Active,Installment
+POL-10185,Kevin King,+989957318127,49,fire,Mashad,2026/04/02,3618583 تومان,Maria Beck,Expired,Bank Transfer
+POL-11049,Brian Clayton,,43,LIFE,tehran,14/04/2025,26812888 تومان,Reginald Juarez,Active,Bank Transfer
+POL-10530,Justin Ortiz,09337351258,68,Helth,Shiraz,18/01/2024,9242381 تومان,Christopher Stone,Renewed,Installment
+POL-10994,Denise Rivera,00989798115599,22,Moter,Mashhad,2025-03-19,5187462,Mary Roth,Cancelled,Bank Transfer
+POL-10642,Lucas Fischer,00989835274829,67,Helth,Karaj,2026/05/05,8421309,Sarah Patterson,Cancelled,Installment
+POL-10657,Heidi Wagner,0924-685-7842,49,life,Shiraz,15/08/2024,19442890,Renee Cole,Expired,Credit Card
+POL-10907,Joshua Garcia,0955-748-1257,53,Travle,tehran,2026/01/05,"2,014,911",Jamie Peters,Active,Credit Card
+POL-11210,Barbara Ramsey MD,+989867344255,63,Travel,Mashhad,24/06/2026,1772402,Jamie Peters,Expired,Credit Card
+POL-11200,Jonathan Franklin,0933-928-7652,21,fire,Tabriz,05-16-2025,"5,045,556",Bailey Diaz,Active,Installment
+POL-10327,Ryan Gray,09091720182,28,motor,mashhad,2026-07-03,3405847 تومان,Crystal Murray,Cancelled,Installment
+POL-10317,Melissa Christensen,09487301089,55,HEALTH,Mashhad,01/01/2026,6910888,Rachel Little,Cancelled,Installment
+POL-10927,Stephen Watson DDS,+989245556217,31,life,TEHRAN,10-29-2025,-1,John Robinson,Cancelled,Installment
+POL-10866,Jennifer Davis,0976-888-8256,52,Health,Tabriz,14/12/2024,"6,686,023",Taylor Price,Active,Bank Transfer
+POL-10882,Melissa Ross,09023790460,56,Travel,Tabriz,03-13-2024,1137699,Christopher Stone,Cancelled,Cash
+POL-10479,Mark Martinez,09582144141,66,Travel,Esfahan,2024-11-12,404389,Charlene Baker,Cancelled,Cash
+POL-10338,  Kimberly Nash   ,+989589153461,26,liability,TEHRAN,23/02/2024,"7,947,087",Matthew Donaldson,Cancelled,Bank Transfer
+POL-10921,Becky Hanson,0987-997-0981,26,HEALTH,Tehran,06/12/2024,6919757,Reginald Juarez,Active,Installment
+POL-10148,Rachel Sherman,+989821788866,42,fire,TEHRAN,04-27-2025,2888744,Mary Roth,Expired,Bank Transfer
+POL-11184,Gina Willis,+989786913330,38,fire,Tabriz,01-06-2026,2800837,John Robinson,Renewed,Installment
+POL-11186,Kelly Jackson,00989794429742,58,life,Shiraz,10-15-2023,12456218,Julian May,Expired,Cash
+POL-11217,Tammy Rogers,+989992885116,74,HEALTH,TEHRAN,2024/06/02,-1,Christopher Stone,Renewed,Installment
+POL-10246,Andrew Norman,00989627367113,26,health,tabriz,2025/08/28,4545292,Jacqueline Taylor,Cancelled,Installment
+POL-10365,Mark Huynh,09815782276,66,Moter,karaj,02-19-2026,8964508,Jamie Peters,Active,Cash
+POL-10901,Patricia Doyle,00989867127036,74,Liabilty,Shiraz,2025-06-24,6146144 تومان,Reginald Juarez,Active,Cash
+POL-10198,Christopher Cabrera,0949-524-9615,27,health,Tabriz,2025-04-08,7221450,Mary Roth,Renewed,Bank Transfer
+POL-10569,Anna Gardner,0940-838-1720,51,FIRE,karaj,30/09/2024,4601240,Jacqueline Taylor,Expired,Credit Card
+POL-10668,Aaron Little,00989817211282,63,HEALTH,Shiraz,18/07/2023,9213204,Christopher Stone,Cancelled,Installment
+POL-10898,Adrian Ross,0962-741-2544,40,Life,TEHRAN,15/11/2025,"4,489,922",Christopher Stone,Renewed,Cash
+POL-10578,Angel Williams,00989786700808,52,FIRE,Mashhad,2025/10/10,-1,Brian Thomas,Cancelled,Credit Card
+POL-10483,Joshua Moyer,+989756531158,49,Travle,Tehran,2023/09/25,"1,867,086",Christopher Stone,Renewed,Bank Transfer
+POL-10158,Scott Madden,0987-671-6091,72,Motor,mashhad,2024/06/03,3520195,Jamie Peters,Expired,Credit Card
+POL-10315,Jeremy Taylor,09481167980,44,Moter,tehran,2025-05-30,8293188,Joseph Holmes,Cancelled,Bank Transfer
+POL-10256,Daniel Young,09654900867,30,health,TEHRAN,2024-04-24,"7,954,361",Reginald Juarez,Active,Cash
+POL-10843,Mrs. Sarah Christian MD,09755655651,24,FIRE,Tabriz,2026-04-20,3730440,Raymond Walters,Expired,Installment
+POL-10384,Vickie Richards,0968-193-3795,55,MOTOR,Tabriz,09-10-2025,7777487,Charlene Ramirez,Renewed,Cash
+POL-10177,Mr. Jon Goodman DVM,09947327724,69,Travel,karaj,09/04/2024,1909258,Maria Beck,Active,Credit Card
+POL-10720,Johnny Myers,00989029454148,27,FIRE,tabriz,2024-12-12,4045604 تومان,Michael Clark,Cancelled,Credit Card
+POL-10314,Monica Chan DDS,+989326185831,32,fire,Tehran ,03-25-2026,5932694 تومان,Crystal Murray,Expired,Bank Transfer
+POL-10357,Raymond Adams,+989520363971,56,FIRE,isfahan,2024-09-18,2450756,Brett Davis,Renewed,Installment
+POL-10298,,00989579842298,38,Travel,Isfahan,07-13-2025,1613434 تومان,Jamie Peters,Expired,Credit Card
+POL-10455,Bryan Maldonado,0932-797-1873,74,life,Karaj,2023-11-22,13079035,Matthew Donaldson,Renewed,Cash
+POL-10724,Troy Barron,09947117613,38,health,Karaj,10/10/2024,7192105 تومان,Christopher Stone,Active,Cash
+POL-10527,Matthew Moore,0922-534-9943,70,HEALTH,Esfahan,04-16-2025,11769187,Christopher Stone,Active,Installment
+POL-11072,Melissa Smith,09189521988,41,fire,shiraz,2024-06-21,2809188,Matthew Donaldson,Renewed,Bank Transfer
+POL-10159,Amanda Suarez DDS,00989023767559,43,Motor,Tabriz,2024/12/21,4311914,Brett Davis,Active,Installment
+POL-10817,  Victor Lawson   ,,55,Helth,tehran,05/06/2026,"4,824,584",Matthew Donaldson,Active,Credit Card
+POL-10360,Misty Anderson,00989120589207,27,Health,Shiraz,2025/12/23,"7,160,518",Sarah Patterson,Cancelled,Installment
+POL-10202,Michael Sanders,+989070418881,49,fire,Esfahan,2025-12-20,3757050,Taylor Price,Cancelled,Cash
+POL-10717,Joseph Ayala,09873621087,49,FIRE,Mashhad,10-20-2024,"3,311,559",Christopher Stone,Active,Installment
+POL-10112,Robert Powell,00989802808182,18,Fire,tabriz,2025-08-25,1947364,Julian May,Expired,Credit Card
+POL-10650,,0927-799-1417,28,Motor,Isfahan,30/08/2024,8045888,Jamie Peters,Renewed,Cash
+POL-10307,Joshua Myers,00989956040839,71,Fire,TEHRAN,2025/10/07,5071390,Maria Beck,Expired,Bank Transfer
+POL-10791,Sarah Li,+989401221991,34,Moter,Isfahan,2024-11-08,5951770,Reginald Juarez,Renewed,Bank Transfer
+POL-10422,Casey Baker,0939-435-1426,55,fire,shiraz,10-22-2023,4218239,Brett Davis,Active,Cash
+POL-10872,Timothy Kline,0903-335-5371,35,travel,Isfahan,04-02-2026,2400188,Rachel Little,Active,Credit Card
+POL-10683,Michael Miller Jr.,00989650434096,34,motor,Tehran ,31/12/2023,9537589 تومان,Michael Clark,Expired,Cash
+POL-10459,  Holly Conner   ,0928-028-3790,44,Travel,karaj,06-26-2024,1222952,Jeremiah Jones,Active,Bank Transfer
+POL-11233,Candice Smith,09684643242,47,HEALTH,Karaj,2023-10-19,8275305,Crystal Murray,Active,Installment
+POL-10665,John Robertson,+989423218756,51,Life,Esfahan,2023/11/01,"14,070,447",Brett Davis,Renewed,Credit Card
+POL-10449,Sean Mclaughlin,0951-552-7340,28,travel,Tehran,29/03/2025,2060057,Reginald Juarez,Active,Bank Transfer
+POL-10703,Jennifer Torres,,49,MOTOR,Esfahan,2023/10/22,8489661,Julian May,Expired,Bank Transfer
+POL-10080,Daniel Holder,00989686824922,66,fire,tabriz,02/09/2024,6263423,Brett Davis,Cancelled,Installment
+POL-11197,Jennifer Aguilar,09711590747,23,life,tabriz,01/07/2026,15905218,Julian May,Cancelled,Credit Card
+POL-10215,Linda Smith,,67,life,isfahan,2024/05/15,7276089,Brett Davis,Active,Bank Transfer
+POL-11034,Karen Miles,00989469975229,40,liability,Shiraz,07-14-2023,"3,711,741",Kevin Hernandez,Expired,Credit Card
+POL-10030,Sarah Dunn,0925-456-7392,31,Liability,Karaj,27/06/2025,3639220,Julian May,Active,Cash
+POL-10242,Jill Sexton,+989644832404,28,health,Tehran ,2024/05/10,8778843,Bailey Diaz,Expired,Bank Transfer
+POL-10708,,09346821616,23,Life ,karaj,2024/05/14,17931341,Joseph Holmes,Expired,Installment
+POL-10209,Kristen Juarez,+989756741755,60,health,Mashad,15/03/2024,7739605,Julian May,Expired,Bank Transfer
+POL-11087,Kimberly Edwards,09338517620,69,life,shiraz,2024/08/14,21944595,Charlene Baker,Cancelled,Cash
+POL-10435,Shawn Watson,09720788506,53,life,Tehran,2025-03-06,"21,100,370",Matthew Donaldson,Active,Cash
+POL-10782,Christopher Rhodes,00989210206920,59,motor,karaj,2025-08-03,7994729 تومان,Joseph Holmes,Cancelled,Bank Transfer
+POL-11204,Dawn Bailey,00989352396756,0,Moter,shiraz,15/03/2024,5094338,Rachel Little,Renewed,Installment
+POL-11171,Victoria Sandoval,0926-048-6751,48,Helth,shiraz,10-31-2024,9027937,Brett Davis,Expired,Bank Transfer
+POL-10551,Lydia Banks,09775835936,29,FIRE,mashhad,28/11/2024,4744806,Joseph Holmes,Cancelled,Bank Transfer
+POL-10544,Deanna Case,0976-539-1387,18,MOTOR,mashhad,09/06/2025,3717561,Renee Cole,Renewed,Bank Transfer
+POL-10778,Todd Price,09332185537,48,fire,Shiraz,2024/04/22,5099593,Mary Roth,Renewed,Cash
+POL-10403,Sarah Williams,,52,Travel,shiraz,12-08-2025,2417810,Raymond Walters,Expired,Credit Card
+POL-10422,Casey Baker,0939-435-1426,55,fire,shiraz,10-22-2023,4218239,Brett Davis,Active,Cash
+POL-10362,Troy Foley,00989543719087,53,motor,Tabriz,04-18-2026,5463410,Raymond Walters,Expired,Bank Transfer
+POL-10271,Regina Frye,0930-334-5287,70,Travle,Tabriz,05-25-2025,1419733,John Robinson,Cancelled,Installment
+POL-10466,Joseph Anderson,09292629725,34,Liabilty,tabriz,11/02/2024,5117613,Brian Thomas,Renewed,Bank Transfer
+POL-11145,Debbie Anderson,00989456086029,43,Motor,Mashad,2025-04-05,"7,149,809",Brett Davis,Expired,Installment
+POL-10858,Vincent Chang,0980-736-9907,56,Helth,Esfahan,06-06-2024,9926963 تومان,Jacqueline Taylor,Cancelled,Installment
+POL-10277,Melanie Bautista,00989591371166,43,fire,Esfahan,06-11-2024,"3,410,603",Charlene Ramirez,Active,Installment
+POL-11143,Elizabeth Parker,09997447588,44,Liability,tabriz,10-08-2025,-1,Matthew Donaldson,Cancelled,Bank Transfer
+POL-11221,Gary Martinez,00989304849000,64,health,Shiraz,2025-02-17,6735786,Julian May,Cancelled,Credit Card
+POL-10971,George Williams,0999-297-1056,65,life,Tabriz,01-12-2026,-1,Christopher Stone,Active,Credit Card
+POL-10771,  Amanda Stewart   ,+989906273201,46,health,tehran,11-18-2023,6917587,Jamie Peters,Cancelled,Credit Card
+POL-10442,  Jacob Melton   ,09817034084,21,Fire,Mashad,2025/11/12,4131273,Jeremiah Jones,Renewed,Credit Card
+POL-10299,Stephanie Walker,00989226936401,31,health,tabriz,03/09/2024,11254328,Rachel Little,Cancelled,Installment
+POL-10375,Benjamin Smith,00989103443307,23,Life ,Mashad,2024/05/22,,Sarah Patterson,Expired,Cash
+POL-10735,James Hart,09765367312,68,LIFE,tehran,2026-05-07,20100960,John Robinson,Expired,Installment
+POL-11156,John Baker,00989294383997,32,LIFE,Mashhad,11/03/2024,"19,723,443",Brett Davis,Active,Installment
+POL-10960,Derek Gutierrez MD,0904-479-4515,73,MOTOR,isfahan,24/02/2024,9148634,Renee Cole,Cancelled,Credit Card
+POL-10472,Rose Atkinson,00989581574512,68,Travel,tabriz,2026/06/19,1477481,Joseph Holmes,Active,Installment
+POL-10643,Dawn Robles,00989723324496,21,Health,Tehran,2025-05-13,"8,980,429",Sarah Patterson,Expired,Cash
+POL-10563,Lindsay Smith,+989238955878,25,Moter,Tehran,17/03/2026,7895675 تومان,Taylor Price,Active,Cash
+POL-11164,Miss Janet Smith,09160398398,25,Moter,tabriz,06/08/2024,,Charlene Ramirez,Expired,Cash
+POL-10388,David Flores,00989888242063,73,fire,Shiraz,01-15-2026,1924503,Mary Roth,Active,Installment
+POL-10022,,09364141603,52,MOTOR,Shiraz,2024/05/24,8034410 تومان,Raymond Walters,Cancelled,Installment
+POL-10602,Emily Thompson,09510214804,34,Life,Tehran,02-22-2024,21392269,Matthew Donaldson,Active,Bank Transfer
+POL-11207,Mary Rodriguez,0988-893-9229,52,health,tehran,11/05/2024,,Mary Roth,Cancelled,Credit Card
+POL-10423,Teresa Thompson,+989045024243,74,Life,Tehran ,2025-11-23,16116992,Joseph Holmes,Renewed,Installment
+POL-11153,Destiny Barrett,0906-077-6017,73,LIFE,Karaj,08-31-2025,11052666,John Robinson,Active,Bank Transfer
+POL-11033,Rebecca Stewart,00989937635664,73,travel,Karaj,01-27-2024,1702581,Charlene Ramirez,Renewed,Credit Card
+POL-10744,Benjamin Allen,00989249745460,58,HEALTH,Esfahan,10/03/2024,6311126,Joseph Holmes,Cancelled,Bank Transfer
+POL-10800,Michael Hall,+989348395590,65,FIRE,shiraz,07-02-2026,3923033,Charlene Ramirez,Active,Credit Card
+POL-10142,Christopher Hughes,0979-951-2534,58,Travle,tabriz,2026-06-22,1865922,Jeremiah Jones,Expired,Cash
+POL-10050,Mary Smith,0994-902-3151,18,Motor,Mashad,05-10-2026,7502631,Joseph Holmes,Renewed,Bank Transfer
+POL-10768,,,31,Life ,tabriz,2025-09-09,12675979,Reginald Juarez,Active,Bank Transfer
+POL-10840,Amber Olson,0975-913-1444,66,Liability,tehran,2023-10-23,7271776,Marissa Johns,Active,Cash
+POL-10081,Joel Smith,0933-710-9096,66,Moter,tabriz,2026-02-11,6314240,Michael Clark,Renewed,Bank Transfer
+POL-10482,David Keith,+989420426042,20,FIRE,TEHRAN,11-15-2025,3318737,Jacqueline Taylor,Active,Bank Transfer
+POL-10321,Rodney Williams,0940-412-0645,21,Helth,tehran,05-03-2025,8546245,Jeremiah Jones,Expired,Installment
+POL-11113,Richard Wagner,09356442878,23,Life ,Isfahan,2025/05/02,18978204,Sarah Patterson,Active,Bank Transfer
+POL-10794,Keith Oneill,0910-015-4867,21,fire,shiraz,2024/11/23,4237947,Julian May,Active,Credit Card
+POL-11224,Phillip Hester,+989165777438,50,liability,isfahan,2024-05-30,4664801,John Robinson,Cancelled,Installment
+POL-10066,Jennifer Williams,00989806274449,74,MOTOR,tabriz,07-30-2025,"6,527,506",Jamie Peters,Expired,Bank Transfer
+POL-11134,Dillon Richardson DDS,09039082336,56,MOTOR,shiraz,2025-09-03,"5,778,279",Taylor Price,Active,Bank Transfer
+POL-10621,Sandra Maxwell,09943201353,41,Helth,Tabriz,2026/06/26,9110116,Bailey Diaz,Expired,Installment
+POL-10934,Daniel Olson,0959-347-1705,48,Travle,Esfahan,09-15-2025,2145120,Renee Cole,Cancelled,Bank Transfer
+POL-10417,Paula Ward,0907-997-1339,23,liability,Tehran ,2025/09/30,2704281,Charlene Baker,Expired,Cash
+POL-10819,Brian Smith,+989569416616,31,motor,isfahan,11/12/2024,"4,739,791",Matthew Donaldson,Renewed,Installment
+POL-10064,Jeffrey Jimenez,0953-957-5080,68,Motor,shiraz,16/05/2025,6244356,Bailey Diaz,Active,Bank Transfer
+POL-10139,Christopher Cole,+989333104285,21,Life ,isfahan,2025/06/17,11142790,Renee Cole,Active,Cash
+POL-11031,Aaron Stevens,00989534466826,30,HEALTH,isfahan,18/11/2025,,Jamie Peters,Cancelled,Bank Transfer
+POL-10804,Larry Ware,09268411989,63,Moter,Karaj,2026/01/23,5560518,Raymond Walters,Renewed,Credit Card
+POL-10491,Kelly Allen,0941-352-6928,50,life,Isfahan,2025-05-27,6536887,John Robinson,Renewed,Installment
+POL-10935,Rachel Richardson,00989180117661,31,Helth,karaj,2026-03-04,5673142,Michael Clark,Expired,Credit Card
+POL-11135,Karen Castro,+989830970136,39,liability,mashhad,2024-02-28,6678894,Jeremiah Jones,Cancelled,Cash
+POL-10065,Judith Davis,09686941179,39,Motor,Mashad,04-01-2026,"7,094,561",Matthew Donaldson,Cancelled,Cash
+POL-11080,Richard Brown,,34,fire,mashhad,2024/12/11,4227817,Michael Clark,Expired,Credit Card
+POL-10658,Paul Gilbert,+989814649412,39,motor,isfahan,2025/06/19,6438841,Mary Roth,Active,Credit Card
+POL-11075,William Flores,00989772600233,65,Motor,Tabriz,01/12/2024,5111232,Sarah Patterson,Renewed,Credit Card
+POL-10296,Leslie Page,00989512776154,70,life,karaj,05/03/2025,"15,748,932",Charlene Baker,Cancelled,Bank Transfer
+POL-10591,Yvonne Gilbert,0912-788-3904,41,liability,Mashad,05-03-2026,4679016,Kevin Hernandez,Cancelled,Bank Transfer
+POL-10419,Cheryl King,0928-093-7134,69,Motor,shiraz,2026/01/11,4414445,Christopher Stone,Expired,Bank Transfer
+POL-10438,Karen Cobb,0911-934-6240,64,Travle,tabriz,04-01-2026,932767,John Robinson,Active,Credit Card
+POL-10261,Susan Gray,,20,Moter,Mashad,26/12/2023,4510984,Raymond Walters,Cancelled,Credit Card
+POL-10933,Jessica Turner,09122155336,21,Life ,isfahan,2026-05-31,100000,Taylor Price,Renewed,Installment
+POL-10281,Aaron Grant,0910-846-1941,71,travel,karaj,23/01/2024,1537276,Renee Cole,Active,Cash
+POL-10626,Felicia Rosario,09327838965,55,Motor,Mashad,2024/01/31,7815337 تومان,Marissa Johns,Expired,Bank Transfer
+POL-11005,Connie Mata,09315666395,27,FIRE,Isfahan,2025-03-05,4689170,Maria Beck,Cancelled,Bank Transfer
+POL-10781,Ernest Clarke,00989477845975,0,Helth,isfahan,05-31-2024,"15,050,606",Crystal Murray,Active,Cash
+POL-10188,Robert Walton,+989553829440,39,Fire,Tabriz,2023-11-13,4452755,Joseph Holmes,Active,Bank Transfer
+POL-11177,Adam Beck,0948-501-1293,150,Helth,TEHRAN,23/06/2026,7291036,Bailey Diaz,Renewed,Installment
+POL-10251,Kayla Simmons,0996-279-5594,150,LIFE,Tehran ,2023-12-29,14157487,Charlene Baker,Active,Credit Card
+POL-11140,Steven Terry,09394562074,69,Travel,shiraz,05-31-2024,2949672,Raymond Walters,Active,Cash
+POL-10755,Thomas Kirby,+989785438199,71,Travel,Esfahan,2025/05/07,1836562,Joseph Holmes,Cancelled,Bank Transfer
+POL-10888,Amy Knight,09879224495,20,Motor,Tehran ,23/04/2024,6832727,Maria Beck,Expired,Bank Transfer
+POL-10514,James Barnes,09374415654,26,Travle,Tehran ,08-29-2024,"3,367,087",John Robinson,Expired,Credit Card
+POL-11222,Alexis Jenkins,09689634467,70,Travle,tabriz,2023/12/19,1116985,Crystal Murray,Active,Credit Card
+POL-10487,Carrie Fry,00989421647527,74,liability,Isfahan,2026-06-09,"6,907,332",Charlene Baker,Renewed,Credit Card
+POL-10273,Stephen Gonzalez,00989472713661,74,FIRE,isfahan,2025-07-11,5830995,Jamie Peters,Cancelled,Cash
+POL-11064,Steven Anderson,00989221613183,31,Liabilty,tabriz,2024-10-15,4172212,Brian Thomas,Expired,Credit Card
+POL-11157,Jennifer Smith,00989995335883,65,Motor,Esfahan,05-07-2025,3515021,Christopher Stone,Cancelled,Credit Card
+POL-10448,Timothy Richardson,0953-841-4397,39,Fire,tabriz,11-26-2023,"4,220,660",Taylor Price,Expired,Installment
+POL-10411,Nicholas Shelton,+989211209129,40,Health,Isfahan,2026-04-06,9933764,Jeremiah Jones,Active,Installment
+POL-10982,Albert Rodriguez,+989794830553,32,Motor,TEHRAN,25/07/2025,6497778,Reginald Juarez,Cancelled,Credit Card
+POL-10829,Anna Baker,00989664490814,62,Life,Mashhad,23/08/2025,,Kevin Hernandez,Cancelled,Cash
+POL-11138,Austin Baker,00989536130238,38,Motor,karaj,04-06-2024,2160360,Jacqueline Taylor,Renewed,Bank Transfer
+POL-11061,Linda Wyatt,+989375682277,56,Liabilty,isfahan,2024-05-14,2358786,Crystal Murray,Active,Installment
+POL-10149,Ronald Reed,0964-933-1652,59,fire,Shiraz,03/06/2026,3384441,Bailey Diaz,Cancelled,Bank Transfer
+POL-10673,Kimberly Gray,,46,life,tabriz,06-05-2026,17733814,Bailey Diaz,Cancelled,Installment
+POL-10218,  Kevin Rivera   ,09339920239,27,travel,isfahan,2024/05/26,1622179,Bailey Diaz,Cancelled,Credit Card
+POL-10239,Daniel Schwartz,0921-578-7642,33,FIRE,Tehran,2024/10/14,-1,Renee Cole,Renewed,Bank Transfer
+POL-10830,Stephen Parks,00989578102970,33,Liability,Isfahan,2023-07-19,4594100,Jeremiah Jones,Active,Cash
+POL-10192,Laurie Day,09361964602,43,Travel,Mashad,2025/04/11,1857564,Julian May,Renewed,Credit Card
+POL-10191,Laura Mckinney,00989666750464,68,health,Mashhad,09-26-2024,6837838 تومان,Jacqueline Taylor,Renewed,Installment
+POL-10677,Jeremy Bryant,09088293377,61,liability,Mashad,2025/08/15,4925350 تومان,Crystal Murray,Renewed,Bank Transfer
+POL-10835,,+989811166283,21,fire,Karaj,13/09/2023,3885705,Charlene Baker,Active,Credit Card
+POL-10696,Brian Miller,00989299601324,56,Helth,mashhad,2026-04-21,6869340,Jamie Peters,Renewed,Installment
+POL-10644,Kimberly Lopez,0914-637-3139,39,fire,Mashhad,2024-11-03,"5,288,358",Jacqueline Taylor,Cancelled,Cash
+POL-10815,Edward Colon,0995-749-4564,50,Life ,Tabriz,03/04/2024,21986528,Christopher Stone,Expired,Installment
+POL-10691,Lindsay Palmer,+989369258088,39,motor,tabriz,07-19-2023,"6,085,686",Kevin Hernandez,Renewed,Cash
+POL-10016,Dr. Sophia Hart,,35,Travel,Isfahan,05-30-2025,1684926 تومان,Michael Clark,Cancelled,Bank Transfer
+POL-10818,James Benson,09244394284,63,travel,shiraz,09-23-2023,2101816,Kevin Hernandez,Active,Cash
+POL-10582,Megan Black,09440774051,56,travel,TEHRAN,11/05/2025,"1,516,381",Marissa Johns,Renewed,Installment
+POL-11235,Richard Hernandez,,67,LIFE,shiraz,2023/07/09,"12,768,637",Matthew Donaldson,Cancelled,Bank Transfer
+POL-10627,Nathan Anderson,0939-418-6588,24,Life ,shiraz,2025/09/08,"21,892,599",Jacqueline Taylor,Cancelled,Cash
+POL-11193,Bryan Esparza,0900-479-4470,50,Motor,Tehran,02/06/2024,5956447,Jamie Peters,Expired,Cash
+POL-10323,Tina Rhodes,09017493217,37,motor,Tehran,11-24-2023,-1,Brian Thomas,Active,Cash
+POL-11047,Dawn Hart,00989473328460,30,Travel,Isfahan,2024/04/08,2567116,Crystal Murray,Active,Installment
+POL-10631,Michael Olson,00989429181009,48,Liabilty,shiraz,12-04-2025,5958336,Raymond Walters,Expired,Installment
+POL-11229,Jamie Clark,09371569407,21,fire,Tehran ,05-08-2025,2936900,Charlene Ramirez,Active,Bank Transfer
+POL-10760,Christopher Smith,+989952536595,71,Liabilty,karaj,18/05/2024,7251139,Jacqueline Taylor,Active,Bank Transfer
+POL-10437,Michelle Berry,0982-686-0426,37,Liability,Shiraz,09-07-2025,5421446,Sarah Patterson,Expired,Cash
+POL-10975,David Campbell,+989649324678,59,FIRE,Karaj,17/11/2023,"1,268,351",Sarah Patterson,Active,Installment
+POL-10967,Nicholas Benton,+989004114904,28,health,Isfahan,25/03/2026,6955624,Charlene Ramirez,Renewed,Cash
+POL-10341,Samantha Robertson,00989121570011,73,fire,Mashhad,2025-03-03,5445562,Kevin Hernandez,Cancelled,Credit Card
+POL-10002,John Pennington,+989481367606,36,life,karaj,2024-10-27,9996539,Rachel Little,Renewed,Credit Card
+POL-10229,Amber Jones,0916-790-0618,-5,Moter,Isfahan,2024/09/23,6037806,Kevin Hernandez,Renewed,Credit Card
+POL-10747,Jacqueline Tyler,+989978696956,56,Fire,Tabriz,10-24-2025,"5,274,881",Jeremiah Jones,Expired,Installment
+POL-11240,Stephanie Martin,+989891035029,34,life,mashhad,2024-09-26,16193199,Maria Beck,Active,Bank Transfer
+POL-10076,Denise Franklin,0987-734-5150,50,Travle,karaj,07-21-2023,1214029,Bailey Diaz,Active,Credit Card
+POL-11188,David Wells,+989650788004,74,liability,mashhad,2024/10/19,7423063,Jacqueline Taylor,Expired,Bank Transfer
+POL-10371,,0993-327-6966,39,health,Mashhad,2024-09-02,"7,533,796",Brett Davis,Renewed,Credit Card
+POL-10180,Emily Colon,0911-686-4316,72,life,tabriz,26/02/2026,9114385 تومان,Christopher Stone,Expired,Cash
+POL-11058,Ashley Neal,0966-402-1113,52,Helth,Tehran,20/04/2025,9413736,Jacqueline Taylor,Cancelled,Cash
+POL-10577,Chelsea Cabrera,+989135146362,19,travel,karaj,2024/01/27,"2,437,725",Jeremiah Jones,Cancelled,Credit Card
+POL-11026,Sarah Thompson,0918-455-0645,19,Motor,TEHRAN,18/09/2024,9113804,Kevin Hernandez,Expired,Cash
+POL-10877,Allison Gomez,+989635722402,59,LIFE,Mashhad,2026-01-23,20418306,Julian May,Active,Cash
+POL-11103,Sue Molina,09419369690,41,motor,Mashad,2023-08-17,6218709,Charlene Ramirez,Renewed,Bank Transfer
+POL-11094,Jennifer Anderson,00989856452351,22,fire,TEHRAN,13/04/2025,743071 تومان,Jamie Peters,Expired,Credit Card
+POL-10748,Andrew Lin,+989801151879,23,Travle,shiraz,2025-05-16,-1,Rachel Little,Active,Bank Transfer
+POL-10589,Christian Armstrong,00989348919204,21,Fire,Shiraz,04-28-2025,2551125,Marissa Johns,Expired,Installment
+POL-11027,Andres Hunt,0980-917-0010,46,Travel,Karaj,2023/07/19,2180115,Mary Roth,Renewed,Cash
+POL-10983,Raven Jones,09086940719,34,Moter,Shiraz,2025/07/16,7439098,Maria Beck,Expired,Installment
+POL-10311,Amanda Baker,0952-580-0679,28,life,tehran,2024/01/10,21158842,Julian May,Renewed,Cash
+POL-10301,Gerald Kent,00989407423949,30,Travle,tehran,10-10-2024,1532551 تومان,Raymond Walters,Renewed,Bank Transfer
+POL-11010,Felicia Rose,+989014141536,28,HEALTH,Tehran,2023/07/30,9291910,Brett Davis,Expired,Bank Transfer
+POL-10037,Amy Leonard,+989652707783,58,fire,Esfahan,2026/02/10,4502922,Matthew Donaldson,Cancelled,Bank Transfer
+POL-10353,Maria Bond,+989066433102,52,LIFE,tabriz,2026/04/28,15357671 تومان,Charlene Baker,Expired,Installment
+POL-11180,David Vance,+989811057804,61,MOTOR,Mashad,2025/03/14,8370807,Joseph Holmes,Renewed,Credit Card
+POL-10714,Christopher Chambers,0963-671-9694,68,FIRE,Tabriz,2025-08-01,,John Robinson,Expired,Credit Card
+POL-10236,Dana Walker,00989036749182,42,Liability,tabriz,05/08/2024,"2,311,932",Brett Davis,Renewed,Bank Transfer
+POL-11069,Catherine Brown,00989719776526,47,motor,Tehran,2025/11/04,8175059,Reginald Juarez,Cancelled,Cash
+POL-11090,Thomas Williams,09764073565,62,Moter,tehran,2024-11-17,6253595,Charlene Ramirez,Expired,Cash
+POL-10499,Holly Thomas,00989369877332,40,Life,Mashhad,03-18-2024,11778108,Kevin Hernandez,Expired,Credit Card
+POL-10553,Jesse Snyder,00989240492727,48,Life ,karaj,05-18-2025,15538225,Jacqueline Taylor,Renewed,Credit Card
+POL-10055,Wanda Richardson,0911-211-7096,44,Health,tehran,01-19-2026,8811635,Jacqueline Taylor,Expired,Bank Transfer
+POL-10302,Ashley Boyle,0918-670-1202,57,Moter,tabriz,04/04/2024,-1,Jamie Peters,Active,Installment
+POL-10286,Amber Lewis,09362659033,22,Motor,karaj,2024/06/18,"6,255,690",Matthew Donaldson,Expired,Installment
+POL-10928,Michael Harris,0961-877-0807,52,Travel,Shiraz,2025-12-30,1690246,Julian May,Cancelled,Cash
+POL-10219,John Powell,+989645436416,54,Fire,Karaj,2025/03/13,5052105,John Robinson,Cancelled,Installment
+POL-10736,Robert Hood,09835243022,20,Travle,Shiraz,2024-02-08,1467073 تومان,Jeremiah Jones,Renewed,Credit Card
+POL-10387,John James,+989885669685,60,Liabilty,Tehran ,12-08-2025,5016197 تومان,Brian Thomas,Cancelled,Bank Transfer
+POL-11203,Brian Johnson,0959-872-4810,52,fire,TEHRAN,19/04/2026,2545027,Taylor Price,Renewed,Bank Transfer
+POL-10390,Courtney Drake,+989641708712,19,Moter,isfahan,20/04/2024,9594614,Charlene Baker,Renewed,Cash
+POL-10352,Michael Hall,+989539282629,55,health,Shiraz,2025/01/31,5666555,Raymond Walters,Active,Bank Transfer
+POL-10193,Leslie Brown,00989738211520,43,HEALTH,Esfahan,10-03-2023,12492813,Michael Clark,Expired,Installment
+POL-10235,Brett Thomas,0941-461-0415,33,Liabilty,Isfahan,18/01/2025,"8,037,081",John Robinson,Renewed,Credit Card
+POL-11089,  Mrs. Evelyn Johnson   ,09850410985,60,Liability,Mashhad,2025-08-21,"3,238,294",Mary Roth,Cancelled,Bank Transfer
+POL-10694,Tiffany Neal,0904-421-7414,-5,fire,Karaj,2024-08-30,5227769,Julian May,Cancelled,Bank Transfer
+POL-10480,Ashley Berry,0962-359-8886,21,FIRE,Tabriz,06/06/2026,"5,495,302",Rachel Little,Renewed,Installment
+POL-10567,Antonio Walls,+989586458560,31,Liabilty,Tehran,2025-07-22,4225932,Christopher Stone,Cancelled,Bank Transfer
+POL-10116,Brittany Fuller,0961-926-2391,65,HEALTH,Shiraz,2025/12/28,5031318 تومان,Charlene Baker,Cancelled,Installment
+POL-11128,James Melton,09375349869,63,Life,Isfahan,2024/04/01,24781822,Bailey Diaz,Cancelled,Credit Card
+POL-10653,Theresa Humphrey,00989980855114,21,LIFE,Tabriz,03-04-2026,13170782,Matthew Donaldson,Renewed,Credit Card
+POL-11074,Jermaine Lawson,09081670520,36,Travel,Mashad,06-05-2025,2331963,Kevin Hernandez,Renewed,Installment
+POL-10348,  Rebecca Hall   ,00989837463247,62,Liability,shiraz,2025/07/02,4060213,Marissa Johns,Active,Credit Card
+POL-11024,Joseph Rodriguez,09233706281,42,health,Tabriz,04-25-2026,10699516,Brett Davis,Expired,Installment
+POL-10899,Andrew Johnson,0973-364-1199,45,health,shiraz,2023/07/24,6801686,Raymond Walters,Expired,Bank Transfer
+POL-10120,Devon Gilmore,0900-200-7565,46,HEALTH,shiraz,07/12/2023,8703373,Rachel Little,Active,Credit Card
+POL-10947,Jason Hester,0904-781-9114,33,Travel,Tabriz,2025-02-23,1818518,Mary Roth,Renewed,Cash
+POL-11159,Robert Baird MD,09292410831,23,Health,tehran,2025-02-12,10296456,Kevin Hernandez,Cancelled,Cash
+POL-10895,Christie Houston,09171140163,74,LIFE,Tehran,12/09/2023,16700826,Rachel Little,Active,Cash
+POL-10062,Roy Adams,00989433302307,46,travel,Mashhad,05/06/2025,2523623,Charlene Ramirez,Active,Bank Transfer
+POL-10743,Jeffrey Summers,+989514133195,150,FIRE,Shiraz,02-09-2024,5733173,Raymond Walters,Renewed,Credit Card
+POL-10792,Stephanie Ware,00989577677169,66,motor,Karaj,2023-09-06,"6,330,788",Brett Davis,Cancelled,Credit Card
+POL-10453,Kristen Williams,+989099472938,64,Travel,shiraz,2024-01-14,2314371,Brett Davis,Expired,Cash
+POL-10515,Scott Patterson,00989511774474,57,travel,Mashad,2025-12-04,"329,597",Brian Thomas,Active,Bank Transfer
+POL-10570,Gary Colon,09392693525,43,Health,Tehran,13/01/2026,8191178,Rachel Little,Cancelled,Cash
+POL-10223,Angelica Price,+989023384460,49,Life ,Mashad,2024-12-09,9507434,Mary Roth,Expired,Cash
+POL-10613,Maria Banks,09911795436,65,Helth,Mashad,2024/03/13,6485618 تومان,Brett Davis,Renewed,Cash
+POL-10221,  Taylor Robertson   ,,52,travel,Tabriz,20/06/2026,2366222 تومان,Jacqueline Taylor,Active,Bank Transfer
+POL-10777,James Roach DDS,00989989559329,42,FIRE,Tehran ,2024/07/23,3744237 تومان,Charlene Ramirez,Active,Bank Transfer
+POL-10976,Michelle Lewis,09891427593,0,Motor,shiraz,12/08/2024,4795669,Rachel Little,Active,Bank Transfer
+POL-10465,Michelle Ford,09573844770,45,LIFE,Tabriz,11-19-2023,19076494,Charlene Baker,Renewed,Installment
+POL-10052,Taylor Wilson,09016626442,18,Moter,mashhad,07-06-2026,6650944,Joseph Holmes,Renewed,Installment
+POL-11178,Bradley Rodriguez,00989960431620,61,travel,TEHRAN,2025-12-09,3084725,Christopher Stone,Renewed,Credit Card
+POL-10485,Ashley Clarke,00989177163350,50,Travle,karaj,2024-10-24,"1,823,380",Joseph Holmes,Renewed,Installment
+POL-11226,Bobby Gonzalez,0905-374-0209,70,Helth,Shiraz,20/04/2025,9991909 تومان,Crystal Murray,Cancelled,Bank Transfer
+POL-10386,Linda Monroe,+989050298096,-5,Life ,isfahan,2024-09-27,18439134,Maria Beck,Active,Installment
+POL-10155,Philip Cox,+989618171111,43,Health,karaj,2024/03/06,5256871,Maria Beck,Cancelled,Bank Transfer
+POL-11044,Jo Johnson,00989590639637,63,travel,isfahan,04-10-2025,2156397,Mary Roth,Cancelled,Cash
+POL-10600,John James MD,00989541087825,64,Motor,shiraz,2023/09/18,"5,107,255",Renee Cole,Cancelled,Bank Transfer
+POL-11056,Melissa Mendez,09000737393,64,Liability,Mashad,19/12/2024,3393118,Kevin Hernandez,Renewed,Installment
+POL-10248,Jeremy Garcia,00989300045637,25,FIRE,Shiraz,02/01/2024,2102015,Marissa Johns,Active,Cash
+POL-10761,Dennis Pacheco,+989300757322,37,motor,shiraz,2024-10-14,,Mary Roth,Cancelled,Installment
+POL-10441,Cheyenne Morse,+989720196786,50,LIFE,mashhad,08/04/2026,26896072 تومان,Reginald Juarez,Cancelled,Credit Card
+POL-11168,Diana Kim,0928-792-4558,18,Travle,Mashad,09-20-2024,-1,Mary Roth,Active,Bank Transfer
+POL-11181,Rachel Wilson,0948-762-6866,26,Fire,Shiraz,2025-02-17,"3,858,317",Brian Thomas,Renewed,Installment
+POL-10542,Gina Downs,09121920048,19,Travle,Esfahan,2023-07-29,2224751,Bailey Diaz,Cancelled,Bank Transfer
+POL-10701,Michelle Dickerson,0925-757-1915,23,liability,Karaj,05-23-2024,5199171,Matthew Donaldson,Renewed,Credit Card
+POL-10117,Manuel Owens,09403186420,33,Liability,tehran,2025/08/16,"3,019,315",Brian Thomas,Renewed,Credit Card
+POL-11239,Jasmine Crosby,00989166357134,26,Liability,isfahan,2025/10/01,-1,Matthew Donaldson,Active,Credit Card
+POL-10628,Stephanie Carter,+989148141086,59,Health,TEHRAN,2026-04-02,10496494,Jamie Peters,Expired,Credit Card
+POL-11085,Diane Gonzalez,00989381051352,56,Motor,Shiraz,11-04-2023,"5,452,397",Kevin Hernandez,Expired,Credit Card
+POL-10206,Emily Johnson,+989786363098,54,fire,Esfahan,06-26-2025,6559640,Jamie Peters,Cancelled,Bank Transfer
+POL-10291,  Michael Smith   ,09128618940,66,MOTOR,shiraz,2025/12/03,8585130,John Robinson,Active,Installment
+POL-11123,Shannon Baker,+989164032090,24,liability,tehran,16/12/2023,7443985,Reginald Juarez,Expired,Credit Card
+POL-10381,James Rivera,0901-821-5527,23,fire,karaj,02/02/2025,3897084,Bailey Diaz,Renewed,Installment
+POL-10922,Daniel Norman,+989478692118,31,Life ,Shiraz,28/09/2025,13046504,Bailey Diaz,Expired,Credit Card
+POL-10943,Joseph Lopez,+989690353849,48,Life ,Isfahan,13/07/2025,8338721,Charlene Baker,Renewed,Credit Card
+POL-10200,Heather Pierce,00989324279862,22,HEALTH,shiraz,16/04/2024,10791593 تومان,Reginald Juarez,Cancelled,Credit Card
+POL-10596,Brandon Diaz,09370577491,51,liability,Isfahan,12-02-2023,2645059,Brett Davis,Cancelled,Cash
+POL-11083,Amy Mcbride,,32,travel,Karaj,2024/01/12,2349258,Julian May,Renewed,Credit Card
+POL-11223,  Justin Lyons   ,00989155764848,53,Helth,karaj,31/03/2025,7370783,Taylor Price,Expired,Credit Card
+POL-10647,Sarah Stephens,00989235436029,73,Life,shiraz,2024/01/25,19342567,Marissa Johns,Cancelled,Cash
+POL-10800,Michael Hall,+989348395590,65,FIRE,shiraz,07-02-2026,3923033,Charlene Ramirez,Active,Credit Card
+POL-10769,Michael Bonilla,+989207431057,19,LIFE,shiraz,02-20-2026,15199097,Julian May,Expired,Credit Card
+POL-11023,Dean Ross,00989501837987,28,Motor,Tabriz,15/10/2023,6421447,Renee Cole,Renewed,Installment
+POL-10505,Angela Farmer,0901-717-8874,29,Fire,karaj,2025/07/01,5306248,Brian Thomas,Expired,Cash
+POL-10348,  Rebecca Hall   ,00989837463247,62,Liability,shiraz,2025/07/02,4060213,Marissa Johns,Active,Credit Card
+POL-11048,,,59,fire,Mashhad,2026/01/22,5966728,Raymond Walters,Cancelled,Credit Card
+POL-10559,Paul Hughes,09847039228,43,fire,Tabriz,13/12/2024,"4,249,225",Jamie Peters,Expired,Credit Card
+POL-10340,Sheila Fuller,0923-189-4966,64,Liabilty,shiraz,10-24-2024,5771883,Crystal Murray,Expired,Bank Transfer
+POL-11021,Scott Miller MD,00989624201280,38,Travel,Karaj,2024/12/11,2169547,Brian Thomas,Expired,Bank Transfer
+POL-10615,Emily Merritt DDS,+989170071650,67,Liabilty,mashhad,2025-07-22,5335681,Crystal Murray,Expired,Credit Card
+POL-10154,Linda Grant,0967-650-1801,19,Travel,Tabriz,12-02-2025,2034925,Michael Clark,Renewed,Installment
+POL-11189,Alexander Elliott,0984-527-0885,40,Health,Shiraz,06-01-2024,7226430 تومان,Joseph Holmes,Active,Credit Card
+POL-10881,Michael Barnett,0936-191-0572,25,MOTOR,Shiraz,2025/05/10,9088263 تومان,Reginald Juarez,Renewed,Credit Card
+POL-10077,Mrs. Laurie Grant MD,00989501344653,68,fire,Esfahan,08-19-2025,7532396,Julian May,Renewed,Bank Transfer
+POL-10287,Julie Weaver,00989358163573,72,Fire,Esfahan,2025/06/04,5244590,Raymond Walters,Cancelled,Installment
+POL-10322,Jodi Knox,09178124793,34,Liabilty,shiraz,20/11/2025,"6,818,234",Raymond Walters,Active,Cash
+POL-10951,David Matthews,00989126592862,46,Fire,karaj,07-01-2026,5428775,Mary Roth,Active,Cash
+POL-10999,  Kathy Morris   ,09824545234,48,Moter,Isfahan,2025/11/11,4473636,Taylor Price,Active,Credit Card
+POL-11234,Michael Acevedo,0954-824-5935,63,Travle,tabriz,2024-05-14,1024393,Reginald Juarez,Renewed,Installment
+POL-11165,Kevin Perkins,09344866370,54,Life,Isfahan,24/05/2025,,Charlene Baker,Renewed,Installment
+POL-10082,Emily Moore,0921-346-1991,56,Travle,Karaj,26/05/2025,"1,492,389",Sarah Patterson,Renewed,Bank Transfer
+POL-11227,Robert Frank,00989596621662,52,Life,shiraz,07-02-2026,-1,Reginald Juarez,Active,Credit Card
+POL-10464,Joseph Cain,+989539083034,43,Liabilty,shiraz,2023-11-15,"3,922,544",Christopher Stone,Expired,Cash
+POL-10924,Kevin Delacruz,00989262780874,19,liability,Mashhad,2025-08-15,6068407 تومان,Taylor Price,Cancelled,Bank Transfer
+POL-10874,Heather Smith,09150422421,58,Helth,isfahan,10-24-2024,"3,516,319",Bailey Diaz,Renewed,Installment
+POL-10267,Jennifer Mahoney,+989465545837,38,life,TEHRAN,2025/12/19,16751308,John Robinson,Active,Credit Card
+POL-10893,Jose Turner,09578410018,53,fire,TEHRAN,2025/06/20,3933077,Brett Davis,Active,Credit Card
+POL-10333,Adam Hopkins,+989125117661,36,Life ,Esfahan,26/06/2026,"17,268,209",Charlene Ramirez,Renewed,Credit Card
+POL-10010,Melissa Jackson,+989505800849,59,Health,TEHRAN,2025-12-07,"9,959,468",Matthew Donaldson,Active,Installment
+POL-10738,Felicia Sandoval,+989608609997,50,Life ,Tabriz,2025-06-20,"20,608,470",Brett Davis,Expired,Credit Card
+POL-10470,  Angela Campos   ,+989857553280,24,Health,isfahan,06/12/2025,4784891,Mary Roth,Active,Cash
+POL-10032,Christina Perez,09752166954,38,health,karaj,07/09/2024,"9,354,714",Raymond Walters,Renewed,Bank Transfer
+POL-10905,Sierra Nichols,09787819379,33,Liabilty,Shiraz,2025/04/30,5503486,Bailey Diaz,Active,Bank Transfer
+POL-10413,Donald Wolfe,0961-795-9657,50,HEALTH,Karaj,2024-06-07,4209150,Kevin Hernandez,Renewed,Bank Transfer
+POL-10580,Kelly Black,00989759345404,61,Health,Shiraz,11/01/2026,14234491,Reginald Juarez,Renewed,Cash
+POL-10382,Dana Nunez,+989262667565,29,HEALTH,Shiraz,12-23-2024,9537396,Charlene Ramirez,Renewed,Installment
+POL-10793,Samuel Vargas,,29,HEALTH,karaj,08-28-2024,8400247,Matthew Donaldson,Renewed,Credit Card
+POL-10954,Brittany Fuller,09499424006,24,Liability,tabriz,2025-03-08,2949681 تومان,Reginald Juarez,Expired,Credit Card
+POL-10879,Nicholas Richardson,+989925067399,57,Life,Tehran ,05-13-2024,"16,132,069",Michael Clark,Expired,Cash
+POL-10236,Dana Walker,00989036749182,42,Liability,tabriz,05/08/2024,"2,311,932",Brett Davis,Renewed,Bank Transfer
+POL-10968,Sherry Sanford,0929-245-0244,72,Travel,Shiraz,2023/12/26,"2,717,942",Jacqueline Taylor,Cancelled,Bank Transfer
+POL-11225,Wanda Gonzalez,0946-318-8020,73,motor,Esfahan,05/05/2025,5371229,Kevin Hernandez,Cancelled,Credit Card
+POL-10378,Anthony Myers,0950-552-7714,28,Fire,Isfahan,2023-07-20,"4,679,608",Charlene Ramirez,Active,Bank Transfer
+POL-10089,Katherine Anderson,+989198794743,61,Liabilty,Karaj,04-14-2026,"6,598,690",Brian Thomas,Cancelled,Bank Transfer
+POL-11041,Todd Kelley,00989986219728,21,Life ,mashhad,2025-12-07,10829791,Bailey Diaz,Cancelled,Cash
+POL-10601,Benjamin Lee,0913-477-4379,40,life,karaj,03/02/2025,14243482,John Robinson,Cancelled,Cash
+POL-10213,Kelly Cobb,09975047134,51,life,isfahan,24/09/2025,12909616 تومان,Bailey Diaz,Active,Installment
+POL-10833,Jennifer Collins,00989970091452,38,Liability,Karaj,2026/01/02,7296098 تومان,Michael Clark,Expired,Cash
+POL-10332,Glenn Wright,00989131077671,68,fire,tabriz,21/11/2023,2817128,Crystal Murray,Cancelled,Installment
+POL-10133,Vincent Nelson,,62,fire,Tabriz,2025/01/07,"2,202,045",Jeremiah Jones,Cancelled,Cash
+POL-10346,Alyssa Walker,00989790002133,0,liability,Tehran,11-20-2023,4587422,Julian May,Cancelled,Bank Transfer
+POL-11110,Mikayla Howe,09117124744,37,LIFE,Mashad,06/08/2024,12632648,Kevin Hernandez,Renewed,Cash
+POL-10007,Lisa Lewis,+989206298026,50,Fire,tehran,2023-07-07,3369796,Charlene Baker,Expired,Credit Card
+POL-10972,,+989316092468,58,travel,tabriz,2026-01-14,1896232,Raymond Walters,Cancelled,Credit Card
+POL-10320,Michael Ballard,+989179450327,46,MOTOR,Karaj,2026-04-06,9430633,John Robinson,Cancelled,Installment
+POL-11126,Shelia Harper,09841844344,56,HEALTH,tehran,2025-10-06,10428962 تومان,Sarah Patterson,Active,Installment
+POL-10187,Jennifer Esparza,+989205521020,62,HEALTH,karaj,2024-12-06,8971956 تومان,Bailey Diaz,Expired,Bank Transfer
+POL-10634,Theodore Haynes,09025047462,58,motor,Tabriz,2024-10-10,"5,553,126",Jeremiah Jones,Active,Installment
+POL-10552,Curtis Osborn,09559867605,25,liability,tabriz,2023-10-23,6596853,Kevin Hernandez,Active,Bank Transfer
+POL-10304,Nathan Ortiz,00989391304746,71,Health,shiraz,2024-06-18,,Marissa Johns,Renewed,Cash
+POL-10031,Vanessa Mccarty,00989045227746,40,health,karaj,2026-01-27,10852701 تومان,Mary Roth,Cancelled,Installment
+POL-10964,Brian Oneal,00989064362766,54,Life ,mashhad,04/03/2026,9625021,Kevin Hernandez,Cancelled,Cash
+POL-10684,Frances Lewis,09750748998,48,liability,tehran,2024/09/18,4321540,Sarah Patterson,Renewed,Installment
+POL-10796,Isaac Lyons PhD,0953-332-7264,31,Fire,shiraz,07/06/2026,4741634,Sarah Patterson,Renewed,Credit Card
+POL-11149,,+989843341034,52,FIRE,shiraz,08-03-2023,"5,057,541",Sarah Patterson,Active,Cash
+POL-10240,Maria Carter MD,09588099059,48,liability,Esfahan,01-07-2025,3951280,Marissa Johns,Cancelled,Installment
+POL-10067,Holly Pratt,09530636463,70,Travel,Esfahan,2024/07/12,"2,537,978",Brian Thomas,Expired,Bank Transfer
+POL-10174,Robert Davis,09298116216,61,travel,Tabriz,10-13-2024,1675228 تومان,Michael Clark,Expired,Cash
+POL-10766,Timothy Williams,+989389260635,23,Motor,tehran,06-28-2025,"7,970,610",Michael Clark,Cancelled,Bank Transfer
+POL-10107,Haley James,+989446338186,42,liability,mashhad,04-29-2026,6389684,Charlene Baker,Cancelled,Credit Card
+POL-10245,Casey Murphy,0901-151-4827,24,Life,mashhad,05-01-2025,"15,372,286",Maria Beck,Active,Bank Transfer
+POL-10056,James Schmidt,09530403269,59,Liability,isfahan,2023-07-20,1070382,Maria Beck,Expired,Installment
+POL-10630,Joe Carroll,09221126703,56,life,Shiraz,01/07/2024,12561453,Maria Beck,Expired,Installment
+POL-10583,John Craig,0987-439-7542,37,fire,Shiraz,04-21-2026,3759049,Reginald Juarez,Renewed,Cash
+POL-11106,Erin Johnson,00989406902049,73,Helth,tabriz,11-08-2025,8852053,Brian Thomas,Renewed,Credit Card
+POL-10145,James Alvarez,0934-396-2449,48,health,Tehran,2025/02/18,"9,776,817",Brian Thomas,Renewed,Credit Card
+POL-10090,Jeremy Vargas,+989468204577,72,Liability,Tehran ,2025-08-11,7947552 تومان,John Robinson,Cancelled,Bank Transfer
+POL-11199,Sabrina Walker,09545937609,72,life,Mashhad,2024-02-13,17359191,Brett Davis,Active,Credit Card
+POL-10392,Jimmy Johnson,+989215278928,54,Motor,shiraz,2025/12/21,,Joseph Holmes,Cancelled,Credit Card
+POL-11173,Robert Small,+989790935183,42,Fire,Esfahan,2025/05/21,4436255,Reginald Juarez,Renewed,Installment
+POL-10682,Allen Wallace,09638068865,30,Travle,Tehran ,2024-11-30,1127944,Crystal Murray,Cancelled,Installment
+POL-10310,Edwin Mcintyre,+989186104128,19,Travle,Esfahan,2025/11/01,2387225,Jacqueline Taylor,Expired,Credit Card
+POL-11046,Denise Costa,00989325920356,65,Motor,shiraz,10-09-2023,8780146,Brian Thomas,Expired,Credit Card
+POL-10359,Brandi Mccarty,+989596208325,34,Travle,shiraz,27/12/2024,,Brett Davis,Cancelled,Installment
+POL-10093,Alejandra Vaughn,0954-839-0991,55,Liabilty,Tabriz,2025-12-19,3966208 تومان,Brett Davis,Cancelled,Installment
+POL-10977,Kaylee Parsons,09902328315,19,fire,Tabriz,24/01/2024,5247885,Raymond Walters,Renewed,Cash
+POL-11078,Linda Tapia,+989135544133,66,Life,shiraz,2026-02-08,12127452,Jeremiah Jones,Cancelled,Bank Transfer
+POL-11105,,00989913881469,24,Liability,Karaj,10/01/2024,4694489 تومان,Matthew Donaldson,Renewed,Installment
+POL-10376,Paige Alvarez,+989482816381,55,Travle,TEHRAN,2026/01/19,1994725,Raymond Walters,Cancelled,Cash
+POL-10243,Barry Dodson,09758725562,35,Life ,tabriz,2024-01-30,22538819,Michael Clark,Renewed,Cash
+POL-10119,Morgan Wood,0955-720-8941,66,Liability,TEHRAN,2024-09-04,6825606,Reginald Juarez,Active,Bank Transfer
+POL-10087,Erika Koch,0925-058-4540,50,life,tehran,25/03/2024,-1,John Robinson,Active,Installment
+POL-10214,Heather Potter,0967-207-3906,70,Liability,mashhad,09/10/2024,4957367,Sarah Patterson,Renewed,Bank Transfer
+POL-10444,Lisa Brown,0942-093-1265,59,health,karaj,2026/06/05,"8,520,466",Maria Beck,Cancelled,Bank Transfer
+POL-10856,  Kim Baker   ,+989719644341,54,MOTOR,shiraz,02/09/2024,-1,Marissa Johns,Renewed,Credit Card
+POL-10173,Jennifer Dillon,00989645137591,50,Liabilty,Isfahan,03-02-2025,6633425,Marissa Johns,Cancelled,Cash
+POL-10853,Michael Blake,+989254871392,26,life,Tabriz,06-16-2024,25127046,Taylor Price,Renewed,Cash
+POL-11244,  Karen Moss   ,00989210199510,29,FIRE,Tabriz,08-14-2023,"1,827,961",Brett Davis,Cancelled,Credit Card
+POL-10425,Charles Hoffman,+989949374312,50,Travel,shiraz,01/01/2026,1509799,Mary Roth,Expired,Bank Transfer
+POL-11122,Nicole Hanson,+989354035902,74,fire,Isfahan,04-08-2026,3271185,Julian May,Cancelled,Installment
+POL-10118,Gregory Carroll,0927-964-2811,28,health,Karaj,2025-10-13,9482338,Raymond Walters,Renewed,Credit Card
+POL-10119,Morgan Wood,0955-720-8941,66,Liability,TEHRAN,2024-09-04,6825606,Reginald Juarez,Active,Bank Transfer
+POL-11042,Rachel Vega,0995-250-3488,59,HEALTH,Tehran,2026/02/23,7498344,Charlene Ramirez,Active,Bank Transfer
+POL-11085,Diane Gonzalez,00989381051352,56,Motor,Shiraz,11-04-2023,"5,452,397",Kevin Hernandez,Expired,Credit Card
+POL-10000,David Duncan,0980-402-5016,60,Liability,TEHRAN,22/12/2025,5745071 تومان,Jeremiah Jones,Renewed,Cash
+POL-10394,Michael Mcdonald,00989810632264,41,Moter,TEHRAN,04-10-2026,6953647,Brian Thomas,Renewed,Bank Transfer
+POL-10401,Robert Mccann,0938-861-1446,25,health,Mashad,2025/06/25,11792321,Maria Beck,Cancelled,Cash
+POL-10404,Kristin Brown,0992-033-9001,31,MOTOR,Mashad,2025-09-23,6710013,Julian May,Cancelled,Installment
+POL-11022,Jennifer Morrison,+989573936351,49,Fire,Tehran ,13/05/2025,2447729,Taylor Price,Expired,Bank Transfer
+POL-11017,Eric Kelly,,66,FIRE,shiraz,2023/10/31,3667824 تومان,Marissa Johns,Cancelled,Credit Card
+POL-10162,Elizabeth Cooper DVM,00989671723892,18,motor,Tehran ,09-13-2023,8587241,Matthew Donaldson,Cancelled,Installment
+POL-10832,Mitchell Richards,00989916638015,21,travel,Mashhad,2024/09/18,1287981,Jacqueline Taylor,Renewed,Bank Transfer
+POL-10114,Mark Davidson,0944-680-5293,49,Liability,Esfahan,2026/06/07,5094236,Marissa Johns,Active,Installment
+POL-10670,Shannon Rowe,00989195682535,32,Liabilty,Tabriz,2026-05-13,5514088,Michael Clark,Cancelled,Credit Card
+POL-10150,Jennifer Wolfe,09541065641,57,health,Esfahan,11-09-2023,8415634,Rachel Little,Renewed,Installment
+POL-10926,Anthony Brewer,+989511921920,48,LIFE,Isfahan,2024-09-08,,Mary Roth,Renewed,Bank Transfer
+POL-11013,Abigail Ibarra,09997815437,26,Moter,Tehran ,2026-05-01,5621333,Jeremiah Jones,Expired,Installment
+POL-10561,  Richard Carr   ,00989730476834,32,Liability,Mashad,02/11/2023,5200771,John Robinson,Renewed,Credit Card
+POL-10368,Theresa Alexander,0989-630-3314,73,FIRE,isfahan,05-18-2025,4271196,Charlene Ramirez,Active,Cash
+POL-10543,Shawn Holland,+989787767906,70,FIRE,karaj,17/04/2026,-1,Kevin Hernandez,Active,Installment
+POL-10889,Keith Adams,0967-833-8700,39,Health,Mashhad,2023-08-21,13082854,John Robinson,Expired,Installment
+POL-10477,Don Brown,00989080295758,36,Travel,Mashad,2024-06-08,1673945,Brett Davis,Active,Installment
+POL-11214,David Flores,+989625647839,41,Health,Mashad,01-24-2024,6715212,Rachel Little,Expired,Cash
+POL-10532,Lori Jones,+989178679377,38,fire,Mashad,04-17-2026,2278762,Taylor Price,Cancelled,Installment
+POL-10625,Jeffery Jones,00989473635284,70,travel,Shiraz,29/12/2024,"2,304,364",Jamie Peters,Expired,Installment
+POL-10692,Savannah Bradshaw,0956-009-4208,57,HEALTH,Esfahan,28/11/2023,6537210 تومان,Rachel Little,Active,Cash
+POL-10512,Eric Wood,00989962404125,49,FIRE,Esfahan,21/04/2024,,Crystal Murray,Active,Bank Transfer
+POL-10929,Melissa Jenkins,09193586593,58,HEALTH,Shiraz,2024-05-10,10236262,Christopher Stone,Expired,Installment
+POL-10861,Michele Shelton,+989345212076,50,liability,Tabriz,06-13-2025,,Maria Beck,Cancelled,Installment
+POL-10072,Anne Conway,+989988265135,18,travel,Mashhad,16/09/2023,-1,Jeremiah Jones,Cancelled,Credit Card
+POL-11158,Lisa Hughes,00989015881168,37,life,tabriz,2026-03-24,15219009,Joseph Holmes,Renewed,Installment
+POL-10807,Christopher Murray,+989065642136,30,fire,tabriz,28/01/2026,4683940,Charlene Ramirez,Cancelled,Credit Card
+POL-10258,Max Moss,00989011894190,45,Travle,TEHRAN,11/04/2025,1590594,Raymond Walters,Renewed,Bank Transfer
+POL-10624,Breanna Santos,+989924082411,42,FIRE,Mashad,2025-04-12,4984578,Marissa Johns,Cancelled,Bank Transfer
+POL-10826,Phillip Mercado,0922-213-6747,65,FIRE,Mashad,29/04/2025,"6,794,342",Michael Clark,Active,Cash
+POL-10234,Kristin Maxwell,09257621195,64,LIFE,Tehran,08-04-2025,14099077,Brian Thomas,Renewed,Bank Transfer
+POL-10135,Thomas Cain,+989990699259,51,Liability,Isfahan,2023-07-25,4955411,Reginald Juarez,Cancelled,Bank Transfer
+POL-10616,Lee Benson,+989806817490,46,fire,Shiraz,2024-11-19,100000 تومان,Jacqueline Taylor,Expired,Bank Transfer
+POL-10516,David Velez,0918-408-7660,26,Travel,shiraz,2025/12/26,1523418,Raymond Walters,Cancelled,Cash
+POL-11008,Jon Wagner,+989365356734,48,Life,tabriz,27/07/2023,21550284,Michael Clark,Expired,Installment
+POL-10836,David Lopez,00989590480367,44,Moter,isfahan,2025-08-20,-1,Jacqueline Taylor,Renewed,Credit Card
+POL-10842,Adrian Hunt,+989119811060,28,fire,Karaj,2024/02/09,2821015,Michael Clark,Cancelled,Cash
+POL-10802,James Lawson,00989996528983,58,Liability,tabriz,05/06/2025,5510900,Sarah Patterson,Active,Installment
+POL-10851,Lorraine Kelley,09653428562,59,Liabilty,tabriz,2024/05/16,,John Robinson,Active,Bank Transfer
+POL-10809,Robin Mills,+989788100133,18,Life ,Tabriz,05/01/2025,21190680,Michael Clark,Cancelled,Cash
+POL-10592,Theresa Pittman,00989759768258,42,FIRE,isfahan,12-15-2023,6771667,Joseph Holmes,Expired,Credit Card
+POL-11139,Juan Wu,,37,Fire,Karaj,2024/03/04,3956159,Jacqueline Taylor,Renewed,Bank Transfer
+POL-10501,Angela Jackson DVM,09295644356,19,Liabilty,tabriz,2025-11-18,6305014,Joseph Holmes,Renewed,Cash
+POL-10538,Eric Dickson,00989459034913,64,Moter,karaj,01/01/2025,2841383 تومان,Raymond Walters,Renewed,Credit Card
+POL-11037,Yolanda Webb,+989687963734,0,Life ,Isfahan,05-24-2026,11146620,Taylor Price,Cancelled,Bank Transfer
+POL-10728,Pamela Gilmore,0931-240-5079,41,life,Karaj,13/12/2025,18932023,Jeremiah Jones,Active,Installment
+POL-10581,Diana Rivera,0916-277-3946,64,Travle,isfahan,24/08/2024,"1,609,777",Brian Thomas,Renewed,Credit Card
+POL-10343,Yvonne Mullins,0961-573-0788,25,liability,Esfahan,2024/12/13,4668545,Reginald Juarez,Expired,Cash
+POL-11053,Stephen Johnson,00989333343560,28,Life ,mashhad,26/10/2023,18590112,Charlene Baker,Active,Installment
+POL-10985,Christina Williams,+989034281762,22,LIFE,Tabriz,2024-06-03,11609619,Rachel Little,Renewed,Bank Transfer
+POL-10293,Johnny Baird,+989543934698,18,Health,Mashhad,30/06/2026,10970759,Brett Davis,Renewed,Bank Transfer
+POL-10364,Scott Cross,09256110737,57,Motor,Karaj,12-30-2024,6722809,Sarah Patterson,Expired,Credit Card
+POL-10993,Aaron Hill,09212581175,68,Travle,Karaj,14/11/2023,1605863,Joseph Holmes,Renewed,Bank Transfer
+POL-10659,John Jones,+989295678012,28,life,Mashad,2025-04-24,12461646,Mary Roth,Active,Bank Transfer
+POL-10014,Stephen Hickman,,54,Motor,isfahan,02/08/2025,5955980,Charlene Baker,Renewed,Installment
+POL-10686,Raymond Olson,0979-732-8975,50,travel,Esfahan,2024-09-04,"2,614,112",Crystal Murray,Renewed,Cash
+POL-10086,David Thompson,09379788765,49,motor,Isfahan,27/12/2024,5204821,Maria Beck,Renewed,Cash
+POL-10370,Kimberly Glover,0915-585-1736,70,Life ,isfahan,2024-07-26,17234601,Taylor Price,Active,Installment
+POL-10165,Jessica Phillips,00989369695631,68,Helth,shiraz,31/05/2024,9563339 تومان,Jeremiah Jones,Expired,Bank Transfer
+POL-10131,Sharon Pierce,09495313287,72,Liability,Tabriz,2026/05/24,9591642,Jamie Peters,Renewed,Credit Card
+POL-10335,Bradley Murphy,+989338892699,39,life,Karaj,07-09-2023,19703907,John Robinson,Active,Cash
+POL-10059,Nathan Noble,09312942108,69,Liability,Esfahan,2023-10-04,4829868,Michael Clark,Active,Bank Transfer
+POL-10709,Sean Ibarra,+989302182216,39,Helth,Tabriz,10-12-2024,12743706,Jamie Peters,Active,Credit Card
+POL-10854,Antonio Lee,00989329930258,41,Helth,Tehran ,2024/07/01,"9,390,296",Jeremiah Jones,Active,Installment
+POL-10676,Vicki Huynh,00989326146756,34,Fire,Shiraz,2023/10/30,2763138,Christopher Stone,Active,Credit Card
+POL-10354,Jennifer Flowers,0986-117-1602,72,life,tabriz,02/10/2025,11079389,Sarah Patterson,Active,Credit Card
+POL-10780,Adam Shepherd,09197939087,61,Motor,Esfahan,03/01/2025,2218346,Joseph Holmes,Renewed,Credit Card
+POL-10424,Keith Gonzalez,09263996090,72,Liabilty,karaj,2024-06-17,3362914,Brian Thomas,Renewed,Bank Transfer
+POL-10292,Amy Wagner DDS,00989165754057,52,Liability,karaj,08/05/2024,4828190 تومان,Jeremiah Jones,Expired,Credit Card
+POL-10041,Whitney Bradley,0960-830-8799,41,HEALTH,Shiraz,15/06/2025,4719722,John Robinson,Cancelled,Bank Transfer
+POL-11142,Michael Wood,00989229664509,31,FIRE,shiraz,09-17-2025,2831156,Marissa Johns,Renewed,Installment
+POL-10329,Andrea Robbins,0994-048-2909,21,Travel,mashhad,24/10/2023,1436072,Bailey Diaz,Expired,Bank Transfer
+POL-10614,Monique Barr,+989645291001,34,Life ,Esfahan,2026/03/24,"12,670,749",Michael Clark,Renewed,Bank Transfer
+POL-10429,Eric Baker,09380106121,30,motor,Tehran,2025-11-08,7492449,Michael Clark,Renewed,Installment
+POL-10079,James Lane,09031647987,49,liability,Tabriz,15/02/2025,"3,773,968",Maria Beck,Cancelled,Bank Transfer
+POL-10693,Justin Taylor,00989980056226,49,Fire,Tabriz,2025-07-17,2624210,Raymond Walters,Cancelled,Credit Card
+POL-10028,Michael Kerr,00989115712479,53,Moter,shiraz,2026/02/05,,Sarah Patterson,Renewed,Credit Card
+POL-10937,Anthony Robinson,+989076075275,49,LIFE,tabriz,21/12/2023,17846795 تومان,John Robinson,Expired,Cash
+POL-10707,William Harrington,00989939192636,24,Moter,tehran,12-02-2025,7006846,Maria Beck,Active,Installment
+POL-10892,Tammy Rose,09257939128,61,Life,tabriz,2023-12-10,11827446,Sarah Patterson,Renewed,Credit Card
+POL-10918,Jessica Lawrence,09612409549,31,Moter,Mashhad,05-02-2025,6671506,Renee Cole,Renewed,Installment
+POL-10834,John Allen,09535623578,31,Life,shiraz,04-24-2026,8711167,Christopher Stone,Cancelled,Credit Card
+POL-10749,Shannon Johnson,09823471523,34,fire,Tehran,09/09/2023,1912343,Marissa Johns,Active,Cash
+POL-10890,Justin Adams,0909-837-6814,51,Life,Tabriz,2023-09-17,"18,127,490",Jeremiah Jones,Expired,Cash
+POL-10254,Linda Santana,09681590164,43,liability,Tehran,27/06/2026,1944386,Mary Roth,Cancelled,Cash
+POL-10160,Lindsey Roberts,00989061888042,30,Helth,shiraz,13/06/2025,8730677,Crystal Murray,Expired,Installment
+POL-10458,Michael Fitzgerald,+989082833812,51,Helth,Tabriz,2024-12-24,4904093,Julian May,Renewed,Installment
+POL-11114,Ronald Vargas,0924-687-3305,32,life,Tehran,02/03/2025,16111848,Rachel Little,Active,Credit Card
+POL-10383,Elijah Hancock,+989309717209,64,Travel,mashhad,2023-09-03,1511129,Joseph Holmes,Active,Credit Card
+POL-10313,Samantha Santos,09986777862,55,health,tabriz,2025/11/19,"7,178,459",Charlene Ramirez,Cancelled,Credit Card
+POL-10084,Joshua Young,0976-703-2616,73,travel,Tabriz,2024/12/31,,Maria Beck,Renewed,Cash
+POL-10574,James Huff,+989647663949,30,Life,Tabriz,2024/11/16,24190783,Brian Thomas,Cancelled,Credit Card
+POL-10762,Michael Hendrix,+989389595505,-5,Health,Mashhad,2023-11-08,11370904,Joseph Holmes,Active,Cash
+POL-10136,Brian Mcclain,00989377044148,64,Health,karaj,2026/01/10,"11,120,828",Joseph Holmes,Expired,Credit Card
+POL-10111,Ronald Marquez II,09202275745,74,FIRE,shiraz,2024/07/05,3373046 تومان,Michael Clark,Renewed,Cash
+POL-10194,Ryan Sanchez,+989653428001,50,liability,Mashhad,09/05/2024,138098,Jamie Peters,Active,Installment
+POL-10852,Robert Harris,+989911432608,45,life,tabriz,2026-05-29,-1,Bailey Diaz,Renewed,Cash
+POL-10178,Joan Wilson,+989817907222,57,Travel,Karaj,2024/12/21,2998261 تومان,Brian Thomas,Expired,Installment
+POL-10555,Jenna Taylor,0961-058-4275,33,LIFE,Mashad,06-01-2024,19863513,Rachel Little,Active,Bank Transfer
+POL-10723,Madison Adkins,0985-089-5906,50,Liability,tabriz,2025-05-19,"5,317,392",Joseph Holmes,Cancelled,Installment
+POL-10859,Connor Mann,09331618181,27,FIRE,Esfahan,18/06/2026,3327462,Kevin Hernandez,Expired,Bank Transfer
+POL-10969,Melissa Patel,00989409573426,70,Life ,karaj,05-12-2025,"14,286,616",Brian Thomas,Expired,Credit Card
+POL-10496,Robert Johnson,09136771808,72,liability,Shiraz,2026/04/27,4586285,Mary Roth,Active,Bank Transfer
+POL-10950,Peter Jackson,00989880989454,69,Travel,karaj,28/07/2023,2262162,Jacqueline Taylor,Cancelled,Credit Card
+POL-11190,Michael Fuller,00989957581363,22,Health,mashhad,20/11/2024,-1,Bailey Diaz,Renewed,Installment
+POL-10805,Jasmine Barker,,21,fire,Shiraz,2025/08/31,5156904,Brian Thomas,Renewed,Cash
+POL-10129,April Ferrell,0983-665-2800,50,Life,Mashhad,2025-10-20,16857514,Reginald Juarez,Renewed,Cash
+POL-10715,Ann Hernandez,09815871021,36,health,isfahan,05-01-2026,13192775 تومان,Julian May,Active,Cash
+POL-10337,Molly Welch,09100846487,66,Liability,Tehran,2024/11/24,"4,712,700",Taylor Price,Expired,Cash
+POL-10325,Austin Stevens,+989751516505,19,fire,Karaj,01/07/2025,3960766,Maria Beck,Active,Cash
+POL-10608,Jamie Graham,+989810751109,57,MOTOR,Karaj,11/11/2023,6514557,John Robinson,Cancelled,Cash
+POL-10124,Denise Torres,09025048873,50,fire,karaj,2025-09-01,2570435,Marissa Johns,Renewed,Credit Card
+POL-10195,David Anderson,0966-565-9235,47,Moter,Esfahan,07-05-2025,4156102,Rachel Little,Renewed,Installment
+POL-10226,Kyle Mitchell,00989642644608,42,LIFE,Tabriz,2025/11/28,21987868,Michael Clark,Cancelled,Cash
+POL-10689,James Garcia,+989605164486,41,health,isfahan,2024/02/22,9125880,John Robinson,Cancelled,Credit Card
+POL-10268,Joseph Cox,09971195432,36,FIRE,Mashhad,09-16-2025,3798315 تومان,Brian Thomas,Cancelled,Bank Transfer
+POL-10152,Daniel Zimmerman,+989013038166,39,Life ,Mashad,2024/01/19,16039291,Brian Thomas,Renewed,Credit Card
+POL-10909,Michael Hernandez,09334343460,58,Health,mashhad,2024-01-04,5864609,Brian Thomas,Cancelled,Cash
+POL-10584,Krista Hansen,0978-008-8616,20,health,Tehran,13/09/2024,5905686,Kevin Hernandez,Active,Cash
+POL-11054,Rhonda Lee,09500034273,23,FIRE,Tabriz,03-12-2025,4761089,Kevin Hernandez,Cancelled,Installment
+POL-10103,Steven Garcia,0991-392-3992,24,MOTOR,tabriz,2023/07/27,6123413,Crystal Murray,Renewed,Installment
+POL-10986,Joseph Hanna,00989465114291,54,travel,Mashhad,17/10/2023,2053188,Matthew Donaldson,Cancelled,Credit Card
+POL-10593,Krista Mccall,+989773742036,24,Life ,tabriz,01-12-2024,"12,012,463",Kevin Hernandez,Expired,Bank Transfer
+POL-11182,Stacy Briggs,00989405832618,20,Moter,Shiraz,10/11/2024,5835895,Brian Thomas,Active,Bank Transfer
+POL-11195,Aaron Kim,00989250076263,52,liability,mashhad,12-31-2023,3814900,Jeremiah Jones,Active,Installment
+POL-10786,  Timothy Shannon   ,,64,Motor,Isfahan,2025-12-05,5174813,Joseph Holmes,Active,Installment
+POL-10970,Terri Watts,09708428336,0,Life,tabriz,2024-12-30,9631230,Matthew Donaldson,Expired,Installment
+POL-10719,Kimberly Acosta,00989174741320,36,Moter,Karaj,07/03/2024,-1,Bailey Diaz,Expired,Cash
+POL-10884,Jessica Russell,+989727911603,22,fire,Isfahan,2025/08/20,"5,486,259",Bailey Diaz,Active,Credit Card
+POL-10776,Curtis Smith,+989297745828,51,LIFE,Mashad,2024/06/28,23872509 تومان,Matthew Donaldson,Expired,Bank Transfer
+POL-10849,Anthony Lewis,+989318503265,24,Liabilty,mashhad,2024/10/11,6194313,Crystal Murray,Renewed,Installment
+POL-10894,Stephen Peterson,+989155023129,64,Liabilty,mashhad,08-18-2023,5165735,Christopher Stone,Cancelled,Bank Transfer
+POL-10227,Kevin Mcpherson,+989290416665,52,LIFE,Karaj,10/03/2025,13022169,Charlene Baker,Renewed,Cash
+POL-11205,Kelly Schroeder,+989746888430,31,FIRE,Karaj,2024/10/09,"5,732,795",Raymond Walters,Cancelled,Installment
+POL-10126,Ashley Hammond DVM,0902-848-4755,37,travel,mashhad,2023-11-24,1549292,Jeremiah Jones,Active,Installment
+POL-10405,Andrew Fleming,+989329778971,43,liability,karaj,06-03-2024,4368523,Charlene Baker,Expired,Cash
+POL-10775,Jessica Coleman,09180679923,70,travel,mashhad,06/11/2023,2463129,Jacqueline Taylor,Active,Cash
+POL-10821,Deborah Williams,00989863957278,38,Moter,Esfahan,17/07/2024,-1,John Robinson,Cancelled,Bank Transfer
+POL-10711,Jose Rodgers,00989974985475,59,Helth,mashhad,19/11/2023,6345949,Christopher Stone,Cancelled,Installment
+POL-11208,Victoria Lane,00989707825835,44,travel,Shiraz,08-17-2025,"2,515,554",Joseph Holmes,Active,Bank Transfer
+POL-10303,Douglas Patel,09322878562,49,liability,tabriz,2024/09/05,"4,613,146",Jeremiah Jones,Cancelled,Installment
+POL-10267,Jennifer Mahoney,+989465545837,38,life,TEHRAN,2025/12/19,16751308,John Robinson,Active,Credit Card
+POL-10545,John Smith,0952-834-9085,42,Motor,Shiraz,2025-02-20,3607537 تومان,Maria Beck,Cancelled,Credit Card
+POL-10212,Whitney Richards,09073848826,43,Health,shiraz,2023-11-03,10123977,Mary Roth,Expired,Cash
+POL-10896,  Joseph Hughes   ,0955-407-7191,47,Travel,Mashhad,10-26-2024,1803898,Reginald Juarez,Cancelled,Cash
+POL-10916,Mark Price,09304206324,62,FIRE,karaj,05/11/2025,5063737,Brett Davis,Cancelled,Bank Transfer
+POL-10675,Andrew Trujillo,09851089825,32,HEALTH,shiraz,2024-12-19,9701609,Charlene Baker,Renewed,Credit Card
+POL-10814,Briana Boyle,,42,liability,isfahan,06-24-2025,"3,672,254",Christopher Stone,Expired,Credit Card
+POL-10342,Nicole Sandoval,09932869998,18,Health,Isfahan,20/10/2025,7730412,Charlene Ramirez,Cancelled,Credit Card
+POL-10549,Rachel Ward,09409932938,34,liability,Tabriz,2024/01/23,,Raymond Walters,Cancelled,Installment
+POL-10966,Patrick White,09559179678,66,LIFE,Shiraz,2025-06-15,14449438,John Robinson,Expired,Bank Transfer
+POL-10295,Alexandra Boyd,09479349112,55,Helth,shiraz,2024-12-17,,Julian May,Renewed,Installment
+POL-10695,Ann Huang,0990-709-6291,50,Liabilty,shiraz,2024/02/24,5137378,Charlene Ramirez,Renewed,Bank Transfer
+POL-10073,Susan Wyatt,+989225608563,74,liability,Tabriz,2024-09-17,"4,616,353",Renee Cole,Expired,Bank Transfer
+POL-10605,Taylor Tapia,0941-635-1731,73,Liability,Shiraz,02-17-2024,6418114,Brian Thomas,Renewed,Credit Card
+POL-10104,David Carter,0959-474-2687,56,Fire,Esfahan,02/06/2025,4643603,Charlene Ramirez,Renewed,Credit Card
+POL-10645,Kenneth Smith,00989154221003,34,HEALTH,Isfahan,2025/04/28,5536363,Brian Thomas,Renewed,Cash
+POL-10262,  Darryl Thomas   ,09754386040,66,Travle,Mashhad,2024-06-26,2295611,Raymond Walters,Cancelled,Credit Card
+POL-11040,Christopher Wang,09460990495,18,Life,Esfahan,07-31-2024,"18,728,045",Matthew Donaldson,Renewed,Credit Card
+POL-10439,,09642904155,43,Life,Karaj,2025-04-18,21732199,Brian Thomas,Active,Cash
+POL-11019,Mary Ball,0939-075-7151,47,motor,Karaj,2023-12-28,7643400,Joseph Holmes,Expired,Installment
+POL-10091,Kristin Christian,0925-571-6503,21,Liability,isfahan,17/05/2026,2090133,Kevin Hernandez,Expired,Installment
+POL-11118,,0937-850-2639,41,Helth,Isfahan,03-14-2024,"5,335,041",Charlene Ramirez,Expired,Bank Transfer
+POL-10908,  Brittany Thompson   ,00989567338506,19,HEALTH,Tehran ,2025-08-17,5430573,Jacqueline Taylor,Cancelled,Credit Card
+POL-10102,Joshua Rose,+989112273974,49,life,Karaj,2026/05/29,8022014 تومان,Charlene Ramirez,Renewed,Cash
+POL-10238,Heather Medina,0947-526-0954,40,Fire,shiraz,07/06/2026,5389733,Joseph Holmes,Expired,Credit Card
+POL-10942,John Gilbert,+989185470325,67,MOTOR,tehran,26/10/2023,,Jacqueline Taylor,Cancelled,Installment
+POL-10938,  Devin Craig   ,0946-321-6484,40,travel,Mashhad,2025-04-12,2324067,Rachel Little,Renewed,Credit Card
+POL-10005,Belinda Williams,09168513199,70,fire,Mashhad,08-08-2025,4920921,Jamie Peters,Active,Cash
+POL-11160,Olivia Ramos,0909-735-6347,20,Motor,isfahan,2024/09/30,4841610,John Robinson,Renewed,Bank Transfer
+POL-10965,Judy Jones,09195619985,62,health,Isfahan,2024/08/01,9230824,Brian Thomas,Expired,Credit Card
+POL-10018,Karen Hayes,+989797626609,26,Travle,tabriz,2026/07/05,2057075,Crystal Murray,Cancelled,Credit Card
+POL-10121,Virginia Cameron,09606780044,-5,motor,tehran,12-26-2023,4714167,Charlene Baker,Cancelled,Cash
+POL-10661,Craig Wilkerson,00989704322889,-5,life,isfahan,02-11-2026,9838686 تومان,Crystal Murray,Expired,Credit Card
+POL-11077,Todd Johnson,0939-479-1548,72,Fire,karaj,18/07/2024,3636288,Charlene Baker,Cancelled,Credit Card
+POL-10274,Joy Nguyen DVM,+989461558103,41,Motor,shiraz,2026/03/14,5742090,Matthew Donaldson,Renewed,Bank Transfer
+POL-10433,Edward Tucker,09214652007,62,fire,Isfahan,17/08/2023,"3,336,825",John Robinson,Cancelled,Installment
+POL-10811,Kyle Hansen,09819438692,38,motor,isfahan,14/05/2024,4148386,Crystal Murray,Expired,Credit Card
+POL-11196,Rhonda Cunningham,09108503554,56,health,isfahan,2025-10-20,6884918,Christopher Stone,Active,Bank Transfer
+POL-10065,Judith Davis,09686941179,39,Motor,Mashad,04-01-2026,"7,094,561",Matthew Donaldson,Cancelled,Cash
+POL-10181,Jason Hicks,+989954968789,43,health,Tabriz,2026-02-28,3222561,Jamie Peters,Expired,Credit Card
+POL-10184,,00989553284145,51,Life ,isfahan,22/12/2024,"13,495,888",Raymond Walters,Renewed,Bank Transfer
+POL-10406,Emily Larson,0934-496-6199,59,fire,Karaj,2025-08-25,-1,Jamie Peters,Expired,Credit Card
+POL-10865,Nathaniel Allen,00989569864319,34,motor,Esfahan,12-30-2023,7967887,Jamie Peters,Renewed,Bank Transfer
+POL-10520,Charles Smith,00989757736124,28,Travle,karaj,2024/12/23,1676144,Mary Roth,Active,Installment
+POL-11003,Kimberly Lloyd,09544243396,58,Motor,tabriz,28/04/2024,4415168,Raymond Walters,Renewed,Credit Card
+POL-10380,Justin Reid,09701291962,22,Motor,tehran,02/10/2025,8235547,Maria Beck,Renewed,Installment
+POL-10427,Joan Garrett,0965-145-1280,22,HEALTH,karaj,2025-05-18,,Sarah Patterson,Expired,Cash
+POL-10078,Jesse Butler,+989957760497,71,travel,tabriz,2023/12/29,1455807,Jeremiah Jones,Expired,Credit Card
+POL-11009,Adam Mason,09619766308,33,Life,Mashad,2025/12/09,23096722,Jeremiah Jones,Expired,Cash
+POL-10951,David Matthews,00989126592862,46,Fire,karaj,07-01-2026,5428775,Mary Roth,Active,Cash
+POL-10607,Edward Meadows,00989552597674,46,HEALTH,Karaj,2025/06/16,5891909,Brian Thomas,Expired,Installment
+POL-10977,Kaylee Parsons,09902328315,19,fire,Tabriz,24/01/2024,5247885,Raymond Walters,Renewed,Cash
+POL-11166,Dr. Roger Mendoza,+989415455734,54,Liability,Isfahan,2025-09-29,6172698,Rachel Little,Active,Installment
+POL-11057,Robert Hanson,+989142721762,21,travel,tehran,2024/06/28,2003511,Reginald Juarez,Renewed,Credit Card
+POL-11091,Ashley Nichols,,68,travel,Esfahan,09-05-2023,938936,Julian May,Expired,Installment
+POL-11124,Tina Powers,00989594083467,41,HEALTH,Isfahan,23/04/2025,"9,127,995",Jamie Peters,Renewed,Installment
+POL-10958,Sandra Young,+989489066417,55,HEALTH,mashhad,08/04/2025,"7,441,587",Charlene Ramirez,Renewed,Cash
+POL-10559,Paul Hughes,09847039228,43,fire,Tabriz,13/12/2024,"4,249,225",Jamie Peters,Expired,Credit Card
+POL-10846,Lisa Chavez,+989771425919,59,Liabilty,TEHRAN,2025-10-14,4097948,Maria Beck,Cancelled,Credit Card
+POL-10690,,0982-034-6995,71,liability,Tabriz,25/07/2023,4514965,Michael Clark,Cancelled,Installment
+POL-11242,Kristen Cabrera,09724430988,62,Helth,Mashad,22/09/2025,,Rachel Little,Expired,Cash
+POL-11194,Alexis Mendoza,00989861012555,19,HEALTH,Shiraz,04-29-2024,"8,893,843",Rachel Little,Cancelled,Cash
+POL-10436,Sara Tran,+989418789441,22,LIFE,Esfahan,2023/08/09,,Renee Cole,Expired,Bank Transfer
+POL-10490,Andrea Patton,,68,motor,Tabriz,06-28-2025,7462609,Raymond Walters,Cancelled,Credit Card
+POL-10916,Mark Price,09304206324,62,FIRE,karaj,05/11/2025,5063737,Brett Davis,Cancelled,Bank Transfer
+POL-11243,  Kimberly Hudson   ,00989705811571,40,life,tabriz,2024-02-07,19504707,Rachel Little,Cancelled,Bank Transfer
+POL-10069,  Carmen Knight   ,+989591772669,37,FIRE,isfahan,05/02/2025,4377415,Reginald Juarez,Expired,Credit Card
+POL-10808,William Martinez,09286872314,28,FIRE,Mashad,30/08/2023,3642923,Matthew Donaldson,Expired,Installment
+POL-10011,John Lang,+989164990650,45,travel,tabriz,23/11/2025,1085674,Charlene Ramirez,Renewed,Cash
+POL-10144,Alexandra Shaw,0994-453-0707,70,fire,Esfahan,2025/01/04,3851041,Maria Beck,Active,Credit Card
+POL-10917,Hunter Shannon,0945-408-6759,52,travel,shiraz,16/02/2026,623614,Crystal Murray,Cancelled,Cash
+POL-10639,Kevin Robinson,+989849548261,24,HEALTH,Shiraz,12-05-2023,8525960,Jeremiah Jones,Expired,Cash
+POL-10176,Jeffery Warren DDS,+989433516881,49,HEALTH,karaj,08-27-2024,"10,904,956",Mary Roth,Active,Cash
+POL-10994,Denise Rivera,00989798115599,22,Moter,Mashhad,2025-03-19,5187462,Mary Roth,Cancelled,Bank Transfer
+POL-10440,Jane Davis,09446692002,42,Liability,shiraz,28/05/2025,5270796,Bailey Diaz,Cancelled,Installment
+POL-10521,Nicholas Oliver,00989220150857,23,fire,mashhad,09-17-2024,3066034,Christopher Stone,Renewed,Installment
+POL-10963,Nicholas Mitchell,+989969167077,67,Health,Shiraz,2024-09-09,10479091,John Robinson,Active,Credit Card
+POL-11004,Pamela Harvey,00989591427180,67,Travle,Tabriz,07-29-2024,1983704,Rachel Little,Renewed,Credit Card
+POL-10143,Jacob Williams,09279808324,54,FIRE,Mashad,2025/06/25,"4,856,800",Crystal Murray,Cancelled,Bank Transfer
+POL-10753,Jessica Ewing,09039595530,29,Motor,tabriz,2024-09-05,"8,089,488",Jeremiah Jones,Expired,Installment
+POL-10519,Bradley Ruiz,0971-765-0472,46,liability,karaj,2024/09/15,"7,780,948",Charlene Baker,Active,Bank Transfer
+POL-10822,Lori Jones,00989649965758,23,motor,tehran,25/09/2023,"6,106,455",Christopher Stone,Active,Cash
+POL-10428,David Barr DVM,00989641296681,55,Life,shiraz,2024-09-20,13436129 تومان,Jamie Peters,Active,Credit Card
+POL-10612,Jacob Garcia,0992-123-1181,54,liability,Tabriz,05-19-2025,5068388,Rachel Little,Cancelled,Installment
+POL-11032,Brittany Castro,00989273178564,50,life,isfahan,2026/05/26,21651570,Jamie Peters,Renewed,Credit Card
+POL-10156,Travis Ramirez,09200154970,60,Motor,Mashad,2024/05/09,7570404,Mary Roth,Cancelled,Installment
+POL-10539,Clifford Hammond,+989312511670,37,Life ,karaj,2023-09-08,14442477,Renee Cole,Renewed,Bank Transfer
+POL-10461,Stephanie Williams,09693392004,68,Fire,karaj,2024/02/09,3687117,Marissa Johns,Cancelled,Cash
+POL-10576,Kyle Reyes,00989759773487,61,fire,isfahan,2025/11/17,"823,296",Sarah Patterson,Expired,Credit Card
+POL-10255,Valerie Oliver PhD,09156023874,36,Life,isfahan,25/04/2024,22065145,Jeremiah Jones,Cancelled,Bank Transfer
+POL-10979,Randy Park,+989193842389,67,Travel,karaj,2023-09-30,"1,755,966",John Robinson,Renewed,Bank Transfer
+POL-11006,Alan Hopkins,09992416169,57,fire,Esfahan,09-22-2024,3227778,Christopher Stone,Cancelled,Installment
+POL-10560,Laura West,09915630673,31,HEALTH,karaj,06-10-2026,9964363,Reginald Juarez,Active,Installment
+POL-10208,Sarah Lee,+989943782003,27,HEALTH,Karaj,2025/12/28,9054385,Joseph Holmes,Active,Credit Card
+POL-10910,  Patrick Beard   ,09239967818,69,liability,TEHRAN,27/03/2026,2245691,Crystal Murray,Cancelled,Bank Transfer
+POL-10001,Christopher Sexton,00989008687593,25,HEALTH,karaj,06-29-2024,7668165 تومان,Julian May,Renewed,Credit Card
+POL-10269,Richard Bauer,+989430793742,37,Helth,Tabriz,2025-07-28,8684420,Charlene Baker,Expired,Bank Transfer
+POL-10265,Michael Guerrero,00989854034584,61,Health,tabriz,01/02/2026,9098423,Brian Thomas,Active,Credit Card
+POL-10914,Sara Bryan,0974-413-4028,29,Fire,TEHRAN,10-09-2023,1607282,Rachel Little,Renewed,Installment
+POL-10230,Amy Wilkinson,0913-359-8189,29,liability,Isfahan,01-21-2025,-1,Matthew Donaldson,Cancelled,Installment
+POL-10759,Pamela Jackson,+989632058864,25,Motor,tabriz,07-27-2023,8220636,Michael Clark,Active,Cash
+POL-11119,Mike Sanchez,+989617541454,66,life,tabriz,2024/02/29,17551749,Jacqueline Taylor,Expired,Installment
+POL-10108,Anita Gaines,09637844022,59,MOTOR,tabriz,07/08/2025,6370170,Michael Clark,Cancelled,Bank Transfer
+POL-10864,Troy Wiggins,00989615545529,38,liability,shiraz,2025-05-17,4879611,Brett Davis,Active,Installment
+POL-11066,Megan Hull,+989716264583,72,liability,tabriz,16/11/2024,"5,189,673",Charlene Ramirez,Active,Cash
+POL-10873,Ryan Gardner,0996-432-1082,20,HEALTH,Shiraz,2024/06/19,"4,281,124",Joseph Holmes,Expired,Bank Transfer
+POL-11146,Sara Caldwell,+989723262557,73,Fire,Shiraz,2025/11/27,-1,Michael Clark,Active,Credit Card
+POL-10398,Charles Horne,09753275102,26,life,Mashad,2024-07-31,16670156,Bailey Diaz,Cancelled,Bank Transfer
+POL-11169,Susan Young,00989585783618,62,HEALTH,karaj,2024-05-11,10741724,Renee Cole,Cancelled,Credit Card
+POL-10045,Barbara Garcia,00989692624239,26,Liabilty,karaj,15/07/2024,4536181,Mary Roth,Renewed,Cash
+POL-10161,Kristen Garcia,00989461450066,24,Life ,shiraz,2024-03-12,16157433,Michael Clark,Cancelled,Installment
+POL-10991,Nathan Moses,09863884924,53,travel,tehran,2025-12-05,2779286,Taylor Price,Renewed,Bank Transfer
+POL-10727,Dustin Luna,00989009124333,21,Liability,Karaj,12-10-2024,"4,587,878",Charlene Ramirez,Cancelled,Cash
+POL-10629,Matthew Cain,00989753151731,27,Health,Tabriz,2024-09-03,,Marissa Johns,Active,Installment
+POL-10288,Adam Wallace,+989270803084,35,life,tabriz,06-08-2026,"21,298,184",Reginald Juarez,Renewed,Bank Transfer
+POL-11059,Kurt Johnson,00989021302855,43,health,tabriz,2025/07/14,8812929,Brian Thomas,Active,Credit Card
+POL-10408,  Dwayne Moody   ,,57,health,Tehran,20/08/2023,6798112,Raymond Walters,Cancelled,Credit Card
+POL-10575,  Timothy Hill   ,0914-752-4839,35,liability,mashhad,16/12/2024,5727762,Taylor Price,Expired,Installment
+POL-10850,Jacob Morris,0964-937-5300,62,LIFE,Shiraz,2024-06-17,12922666,Renee Cole,Expired,Bank Transfer
+POL-10911,Shannon Mcmillan,00989688321304,40,Motor,Tabriz,2025-03-09,"6,914,384",Brett Davis,Expired,Bank Transfer
+POL-11162,Sabrina Chan,+989418910836,57,Liabilty,Karaj,14/08/2025,4601679,Rachel Little,Expired,Credit Card
+POL-10932,Jason Davis,00989162195286,32,Life ,tabriz,2023/07/17,19278583,Michael Clark,Active,Credit Card
+POL-11100,Renee Jones,+989272689649,48,fire,Tabriz,05-25-2026,2801937,Bailey Diaz,Cancelled,Bank Transfer
+POL-10247,Terry Martinez,00989696096949,67,fire,Shiraz,2025/06/17,"3,539,814",Bailey Diaz,Active,Bank Transfer
+POL-10476,Ryan Miller,+989212482997,57,life,karaj,10-09-2025,14852610,Charlene Ramirez,Active,Credit Card
+POL-10085,  Jesus Rivera   ,0942-355-2326,34,life,mashhad,09-16-2023,17058370,Rachel Little,Renewed,Cash
+POL-10469,Christy Lucas MD,0938-468-1373,45,Motor,Tehran ,2023-09-07,3067255,Brian Thomas,Expired,Bank Transfer
+POL-10225,  Samantha Cardenas   ,0938-811-7037,29,FIRE,Karaj,2024/03/23,3757368,Christopher Stone,Active,Credit Card
+POL-10774,  Eugene Thornton   ,+989986853762,37,Life,shiraz,03-13-2026,22720902,Maria Beck,Expired,Installment
+POL-10331,Mitchell Burgess,09049648775,44,motor,isfahan,01-26-2025,"5,476,753",Renee Cole,Expired,Cash
+POL-10233,Joy Shannon,,31,life,Shiraz,03-27-2025,19428105,Matthew Donaldson,Active,Bank Transfer
+POL-10588,Melinda Ellison,0957-216-4837,41,liability,isfahan,2026/06/25,2099482,Taylor Price,Expired,Credit Card
+POL-10475,Charles Ryan,0934-559-0235,66,Travel,Tabriz,2025-09-18,2093021,Rachel Little,Renewed,Credit Card
+POL-10599,Monica Moss,+989125972551,73,Travel,shiraz,2025-01-04,1666713,Bailey Diaz,Renewed,Credit Card
+POL-10421,Michelle Fisher,,47,life,shiraz,2025-04-23,"20,612,971",John Robinson,Active,Installment
+POL-10182,Jesus Taylor,09503105968,70,Fire,Tabriz,06-28-2024,4605984 تومان,Julian May,Active,Cash
+POL-10988,Alexander Dunn,+989560520732,41,Moter,Isfahan,2024/09/24,"5,342,421",Charlene Ramirez,Cancelled,Installment
+POL-11000,Eugene Alexander,09173065068,26,LIFE,tabriz,12/12/2024,11923827,Renee Cole,Active,Installment
+POL-10049,James Marquez,09837332964,61,FIRE,Tehran,19/06/2024,2564552,Reginald Juarez,Expired,Cash
+POL-11201,Nathaniel Flores,0996-757-6620,42,fire,shiraz,2025-04-11,"2,384,824",Matthew Donaldson,Cancelled,Credit Card
+POL-11029,Brandon Hernandez,+989603606600,48,Health,Isfahan,04-22-2026,8656080 تومان,John Robinson,Cancelled,Credit Card
+POL-10529,Kathryn Robles,09833783357,19,FIRE,karaj,09-17-2025,2464507 تومان,Rachel Little,Active,Installment
+POL-10486,Kristen Jenkins,0920-433-5129,18,Fire,Tehran ,10-07-2024,5122814,Taylor Price,Renewed,Installment
+POL-10497,Daniel Barnes,09819730646,65,Travel,Esfahan,2023-10-04,1365481,Jacqueline Taylor,Cancelled,Bank Transfer
+POL-10106,Cory Elliott,09756234661,74,Life ,tabriz,2024/08/30,"17,168,906",John Robinson,Expired,Cash
+POL-10443,Jason Whitehead,0935-624-8335,22,Health,Mashhad,03-31-2025,9741839,Renee Cole,Active,Credit Card
+POL-10646,Dustin Rosales,00989235591770,43,Travel,Mashhad,09-06-2025,914024,Jacqueline Taylor,Expired,Cash
+POL-11036,Douglas Walker,+989779268990,42,HEALTH,tehran,2025/03/24,"8,390,407",Bailey Diaz,Cancelled,Cash
+POL-10726,Hannah Powers,00989069121857,54,Life,Esfahan,2025/07/19,20090637,Brian Thomas,Expired,Cash
+POL-10190,Matthew Robles,+989351325179,33,Travel,tabriz,09/04/2026,,Sarah Patterson,Cancelled,Credit Card
+POL-10282,Mr. Robert Hernandez,0959-187-2752,65,FIRE,Karaj,28/10/2023,"6,073,297",Renee Cole,Expired,Installment
+POL-10029,Walter Henderson,0918-485-4410,31,motor,TEHRAN,2025-04-17,4120986,Reginald Juarez,Expired,Installment
+POL-10169,Andrew Frazier,0971-543-8632,39,Travel,Esfahan,06-14-2025,2049124,Jacqueline Taylor,Active,Cash
+POL-11001,Kimberly Graham,0951-365-2943,19,Travle,shiraz,2025/10/09,"2,425,720",Jamie Peters,Renewed,Cash
+POL-10100,Lisa Hendrix,09253153722,36,travel,tabriz,2025-04-12,3023962,Charlene Ramirez,Expired,Credit Card
+POL-10197,Jesse Patel,0994-075-9160,22,Liabilty,Esfahan,2023-10-02,5208806 تومان,Crystal Murray,Renewed,Installment
+POL-10495,  Joseph Holder   ,00989032960240,60,Liability,Tehran ,01-27-2025,5092352,Matthew Donaldson,Active,Installment
+POL-10647,Sarah Stephens,00989235436029,73,Life,shiraz,2024/01/25,19342567,Marissa Johns,Cancelled,Cash
+POL-10987,David Ortiz,09752226658,25,Life,tabriz,2025-04-11,"22,749,578",Jamie Peters,Renewed,Bank Transfer
+POL-10044,Mr. David Villegas,0966-647-6100,24,motor,Tehran ,2024-02-02,4489408,Crystal Murray,Cancelled,Installment
+POL-10710,Mindy Price,0982-707-1359,0,Fire,Isfahan,10-06-2024,6490313,Julian May,Cancelled,Installment
+POL-10373,Amy Johnson,0993-367-5623,21,FIRE,Tabriz,11-10-2023,"2,489,389",John Robinson,Cancelled,Installment
+POL-10678,Brian Gross,+989785959021,65,health,Esfahan,2026-02-04,8877216,Maria Beck,Cancelled,Bank Transfer
+POL-10566,Jennifer Ross,09434347260,34,fire,Mashad,2023/12/17,5125940,Reginald Juarez,Renewed,Credit Card
+POL-10847,Kevin Page,0970-477-9094,59,Liability,Tabriz,18/01/2026,5479672,Matthew Donaldson,Expired,Bank Transfer
+POL-10460,Brian Jefferson,+989056438900,61,FIRE,Tabriz,2023/08/18,2196681,Rachel Little,Active,Installment
+POL-11155,Lauren Smith,0997-692-5689,38,motor,Isfahan,05/12/2024,-1,Jamie Peters,Expired,Bank Transfer
+POL-10039,Kim Olson PhD,0984-690-7231,24,Helth,Karaj,2023-12-28,6768019,Christopher Stone,Cancelled,Credit Card
+POL-10434,Marc Goodwin,0972-745-3636,68,Travel,tabriz,2024-05-31,"2,521,763",Mary Roth,Active,Bank Transfer
+POL-10973,Justin Gay,09074076495,46,HEALTH,tabriz,02-25-2025,12108100,Brett Davis,Active,Cash
+POL-11007,Erin Hoover,0964-658-9570,19,Travel,Tehran ,04-30-2025,2556704,Kevin Hernandez,Renewed,Credit Card
+POL-10456,Lisa Macias,+989395124221,28,liability,TEHRAN,2025-10-19,6278369,Marissa Johns,Active,Credit Card
+POL-10260,Ryan Miller,09431769216,18,HEALTH,Tehran ,2024-02-24,8774524,Joseph Holmes,Expired,Installment
+POL-10035,David Wood,0915-509-9418,43,fire,Karaj,2023-11-07,5970125,John Robinson,Renewed,Installment
+POL-10827,Jordan Farrell,09918064802,40,Liabilty,Esfahan,02/11/2024,6087727,Kevin Hernandez,Active,Credit Card
+POL-10309,Philip Miles Jr.,0917-681-5011,40,fire,karaj,05-04-2025,5610506,Rachel Little,Expired,Bank Transfer
+POL-10276,Andrew Winters,09587569877,53,MOTOR,isfahan,05-12-2026,4222987,Reginald Juarez,Active,Credit Card
+POL-10636,Jesse Gomez,0910-772-9161,41,fire,Mashad,07-08-2023,3660269,Kevin Hernandez,Renewed,Installment
+POL-10654,John Williamson,00989689289934,56,Fire,Isfahan,2025-11-17,2262383,Marissa Johns,Renewed,Bank Transfer
+POL-10622,Jason Martinez,09414311790,50,travel,tabriz,20/06/2024,,Michael Clark,Renewed,Credit Card
+POL-10844,William Andrews,+989513806312,30,Liability,Karaj,2026-03-12,"3,546,200",Marissa Johns,Renewed,Credit Card
+POL-10393,Gabriel Lewis,+989110183579,26,Travle,Karaj,16/04/2024,"2,156,543",Jamie Peters,Active,Installment
+POL-10107,Haley James,+989446338186,42,liability,mashhad,04-29-2026,6389684,Charlene Baker,Cancelled,Credit Card
+POL-10349,Stephen Smith,,43,MOTOR,tabriz,01/11/2024,2054165,Sarah Patterson,Active,Installment
+POL-10524,  Kristen Higgins   ,+989952985074,40,Liabilty,tehran,09/06/2025,6543733,Charlene Baker,Cancelled,Credit Card
+POL-10784,Casey Williams,00989561821836,72,liability,shiraz,2025-08-04,4408367,Marissa Johns,Active,Installment
+POL-10047,,00989723107574,72,Helth,Mashhad,2026-06-16,10639152,Joseph Holmes,Expired,Credit Card
+POL-10203,Shane Johnson,+989177514230,0,Liabilty,tehran,2025/10/04,5091344,Crystal Murray,Expired,Bank Transfer
+POL-10021,Jeffery Hall,09704542495,0,Helth,isfahan,2026-06-24,"6,474,656",Jacqueline Taylor,Expired,Installment
+POL-10402,Victoria Murphy,00989201609917,47,Fire,Shiraz,2025-01-22,4638300,Reginald Juarez,Cancelled,Credit Card
+POL-11107,Tiffany Miller,+989143910349,27,liability,tehran,2023/11/15,4668330 تومان,Bailey Diaz,Active,Credit Card
+POL-11154,Lisa Wilson,09085333825,54,Fire,karaj,23/06/2024,5524757,Charlene Baker,Renewed,Credit Card
+POL-10989,Mary Mcdonald,09476039708,52,Liability,mashhad,2024/09/21,5277020,Brian Thomas,Active,Credit Card
+POL-10741,Mary Cooley,0968-600-3727,40,FIRE,Tabriz,2026/01/31,5665975,Raymond Walters,Active,Installment
+POL-11147,Maxwell Anderson,+989888384814,20,MOTOR,Shiraz,2024/04/22,9634139,Rachel Little,Expired,Bank Transfer
+POL-10033,Samantha Martinez,09429489443,33,Health,karaj,2025-07-07,8061201,Kevin Hernandez,Expired,Installment
+POL-10787,Andrew Nichols,0979-594-8805,39,Health,mashhad,03-16-2024,6574792,Rachel Little,Active,Credit Card
+POL-10923,Michael Williams,00989590392137,37,FIRE,mashhad,2025/08/14,3347464,Julian May,Cancelled,Credit Card
+POL-11043,Kelsey Dawson,09621846399,51,LIFE,mashhad,2025-01-26,11172657 تومان,Julian May,Cancelled,Installment
+POL-11238,Gary Miller,00989725700021,70,Travel,shiraz,2024/11/01,"1,962,065",Crystal Murray,Active,Installment
+POL-10579,Jennifer Vasquez,0915-914-5615,56,Moter,TEHRAN,2024/12/10,6084630,Bailey Diaz,Cancelled,Cash
+POL-10481,Michael Evans,0943-167-7484,18,Helth,Tehran ,2024/04/19,-1,Marissa Johns,Renewed,Bank Transfer
+POL-10931,Caitlyn Leonard DDS,09113230027,25,Health,tehran,11-22-2023,-1,Joseph Holmes,Renewed,Credit Card
+POL-10356,Emily Carpenter,00989421306022,34,travel,TEHRAN,30/06/2026,2155952,Brian Thomas,Active,Cash
+POL-10759,Pamela Jackson,+989632058864,25,Motor,tabriz,07-27-2023,8220636,Michael Clark,Active,Cash
+POL-10092,Morgan Perez,0989-595-1226,34,FIRE,mashhad,06/11/2025,3742810,Reginald Juarez,Cancelled,Cash
+POL-11175,Elizabeth Anthony,+989754713240,52,Health,Isfahan,06-09-2024,9340858,Rachel Little,Active,Installment
+POL-10803,,0956-198-9113,28,HEALTH,Karaj,2024-02-27,11444435,Michael Clark,Renewed,Bank Transfer
+POL-10745,Wayne Briggs,09839025038,71,Travel,Karaj,2025/01/30,"1,914,776",Brian Thomas,Renewed,Bank Transfer
+POL-10279,Chelsea Cruz,09250502129,45,Helth,karaj,06-02-2026,6659791 تومان,Joseph Holmes,Cancelled,Installment
+POL-10764,Veronica Carroll,00989504478613,73,Liabilty,mashhad,06-10-2025,7242032,Joseph Holmes,Active,Cash
+POL-10604,  Melissa Lee   ,0972-248-0282,30,fire,Shiraz,2026-01-04,3895469,Mary Roth,Active,Installment
+POL-11247,Kimberly Wright,09080174206,69,FIRE,karaj,2025-07-29,5648390 تومان,Rachel Little,Cancelled,Cash
+POL-10400,Jessica Grimes,00989822587127,46,Life,tabriz,06-22-2024,17196198,Jamie Peters,Active,Installment
+POL-10257,Carlos Moore,00989549601496,67,LIFE,karaj,2026/05/24,10488617,Marissa Johns,Cancelled,Credit Card
+POL-10944,Cynthia Collins,+989046402592,26,Travel,Tabriz,01/05/2024,1661810,Rachel Little,Expired,Cash
+POL-11096,Matthew Greene,00989683406706,18,Helth,tabriz,10-22-2023,7933964,Brett Davis,Cancelled,Installment
+POL-11219,Matthew Johnson,09296614896,36,Travle,Karaj,20/10/2023,1844271,Marissa Johns,Active,Installment
+POL-11161,Danielle Pierce,0921-469-9809,62,Travel,Karaj,09/03/2024,2617976,Rachel Little,Active,Cash
+POL-10494,Matthew Gutierrez,00989476543034,63,Travel,Mashad,11-15-2024,2007800,Sarah Patterson,Cancelled,Installment
+POL-10772,Kyle Buck,,54,Travle,isfahan,2024-06-27,"1,257,595",Reginald Juarez,Active,Bank Transfer
+POL-10550,Christopher Hebert,00989740178796,150,Health,Tabriz,04-30-2026,7821359 تومان,Bailey Diaz,Renewed,Cash
+POL-10201,Lori Walters,09190921400,62,Liabilty,shiraz,12-11-2024,5015349,Kevin Hernandez,Expired,Bank Transfer
+POL-10312,Ronnie Mata,09308444936,51,FIRE,tabriz,10/08/2024,3479619,Charlene Baker,Cancelled,Installment
+POL-10290,Lauren Wilson,+989489682216,44,motor,Shiraz,26/01/2024,4891585,Joseph Holmes,Cancelled,Credit Card
+POL-11213,Adriana Church,0977-346-4282,36,Liability,TEHRAN,2023/09/03,3018490,Michael Clark,Renewed,Bank Transfer
+POL-10763,Melissa Mason,00989085896715,54,Health,Tehran,2026/01/12,4146695,Rachel Little,Active,Bank Transfer
+POL-11136,Maria Jones,+989575250286,55,HEALTH,mashhad,2026/06/22,10266778,Marissa Johns,Cancelled,Bank Transfer
+POL-10949,Frank Rocha,+989657754703,57,liability,Karaj,12/01/2024,3906902,Jacqueline Taylor,Active,Installment
+POL-10183,Steven Clements,09530528735,18,Liabilty,Mashad,2024-04-04,6298632,Bailey Diaz,Expired,Credit Card
+POL-11176,Renee Berry,0936-760-5159,69,MOTOR,Karaj,2024/09/02,"6,609,270",Mary Roth,Cancelled,Bank Transfer
+POL-11068,Dr. Mallory Ward,0912-823-1363,51,MOTOR,shiraz,03-30-2025,9710706,Jeremiah Jones,Expired,Bank Transfer
+POL-11030,Adrian Harrison,0922-538-6321,61,health,mashhad,22/05/2024,5129366,John Robinson,Expired,Installment
+POL-10250,Richard Bailey,+989244961417,62,Life,isfahan,2026/06/20,16304472,Joseph Holmes,Expired,Bank Transfer
+POL-10823,Anthony Morris,,45,Travel,Shiraz,14/02/2024,"2,675,670",Marissa Johns,Active,Bank Transfer
+POL-11099,Daniel Kent,00989084706236,63,travel,Shiraz,2026/04/03,2466865,Renee Cole,Expired,Bank Transfer
+POL-10940,Christopher Johnson,09174463398,51,Fire,Isfahan,2024-08-17,5372785,Brett Davis,Cancelled,Bank Transfer
+POL-10391,Michael Roberts,09177377819,30,Helth,Shiraz,2025/11/24,12761581,Brian Thomas,Active,Credit Card
+POL-11092,Cody Alexander,0936-644-8671,46,Travle,shiraz,18/08/2024,"2,619,778",Brett Davis,Active,Installment
+POL-11191,Tara Medina,09075893291,61,Liability,mashhad,12-27-2023,,Charlene Ramirez,Active,Credit Card
+POL-10904,Jerry Hodge,09614869002,70,Liabilty,karaj,2025-01-11,5637768,Jamie Peters,Active,Credit Card
+POL-10730,Laurie Sanchez,09289281840,53,Motor,tabriz,2024/04/30,6404013,Jacqueline Taylor,Active,Cash
+POL-10554,Meghan Gilbert,0904-667-2843,71,LIFE,Esfahan,23/08/2023,-1,Jacqueline Taylor,Cancelled,Credit Card
+POL-10366,Timothy West,+989711948101,54,Liabilty,shiraz,09-23-2023,1988647,Raymond Walters,Expired,Cash
+POL-10345,Charles Juarez,00989435464448,64,Fire,tabriz,08-13-2023,4695405,Marissa Johns,Cancelled,Installment
+POL-10535,  Kevin Alexander   ,00989024226346,56,liability,Karaj,2023/09/25,2972473,Brett Davis,Cancelled,Credit Card
+POL-11209,Martin Cox,0999-384-8956,40,motor,Esfahan,2026-03-20,-1,Marissa Johns,Cancelled,Cash
+POL-10919,Cameron Smith,+989858272848,23,Liabilty,shiraz,2024/12/05,8002918,Sarah Patterson,Cancelled,Cash
+POL-10211,Kelly Nicholson,0950-412-8223,43,Health,Esfahan,08-27-2024,6505521,Sarah Patterson,Active,Bank Transfer
+POL-10502,Kenneth Montgomery,00989574656742,28,fire,Esfahan,2024-12-11,4272713 تومان,Jamie Peters,Expired,Bank Transfer
+POL-10537,George Smith,09041751955,64,fire,Tehran,2025/10/25,4159523,Sarah Patterson,Active,Installment
+POL-11220,Dorothy Delgado,09761359272,36,fire,mashhad,07/01/2025,,Bailey Diaz,Active,Cash
+POL-10175,Michael Mccall,00989220143661,22,Life,Isfahan,2025/02/04,18495703,Raymond Walters,Cancelled,Cash
